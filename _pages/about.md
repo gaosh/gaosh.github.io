@@ -23,7 +23,8 @@ I am now a final year Ph.D. candidate in ECE, Swanson School of Engineering, Uni
 
 My research interests includes: 
 <ul>
-    <li>Scalable Machine Learning:  Model compression for Deep Neural Networks (DNNs) and Large Language Models (LLMs). Differentiable Neural Architecture Search. </li>
+    <li>Scalable Machine Learning:  Model compression for Deep Neural Networks (DNNs) and Large Language Models (LLMs). Differentiable Neural Architecture Search. [<a href="https://openaccess.thecvf.com/content_CVPR_2020/html/Gao_Discrete_Model_Compression_With_Resource_Constraint_for_Deep_Neural_Networks_CVPR_2020_paper.html">CVPR20</a>, <a href="https://openaccess.thecvf.com/content/CVPR2021/html/Gao_Network_Pruning_via_Performance_Maximization_CVPR_2021_paper.html">CVPR21</a>, <a href="https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_Exploration_and_Estimation_for_Model_Compression_ICCV_2021_paper.html">ICCV21</a>, <a href="https://link.springer.com/chapter/10.1007/978-3-031-20083-0_20">ECCV22</a>, <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=9mNI83oAAAAJ&cstart=20&pagesize=80&citation_for_view=9mNI83oAAAAJ:-f6ydRqryjwC">ICCV23</a>, 
+	<a href="https://alii-ganjj.github.io/assets/pdf/EffConv.pdf">AAAI23</a>] </li>
     <li>Efficient and Safe Cross-Modal Learning: Adversarial attack and defense on cross-modal datas. Efficient vision and language transformers and cross-domain CNNs. </li>
     <li>Policy Gradient Methods for Reinforcement Learning: Variance-reduced policy gradient methods based on momentum techniques and mirror descent.</li>
 	<li>Zeroth-order optimization methods and other topics for optimization. Fairness in deep learning and interpretation guided models.</li>
