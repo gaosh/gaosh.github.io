@@ -42,7 +42,6 @@ My research interests includes:
 	<a href="https://www.jmlr.org/papers/volume23/20-924/20-924.pdf">JMLR</a>,
 	<a href="https://arxiv.org/pdf/2010.06097.pdf">TPAMI</a>,
 	<a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/b9e98316cb72fee82cc1160da5810abc-Paper-Conference.pdf">NeurIPS22</a>
-	] Fairness in deep learning and interpretation guided models. [
-	<a href="https://par.nsf.gov/servlets/purl/10398060">ECCV22a</a>,
+	] Fairness in deep learning and interpretation guided models. [<a href="https://par.nsf.gov/servlets/purl/10398060">ECCV22a</a>,
 	<a href="https://arxiv.org/pdf/2209.02869.pdf">ECCV22b</a>]</li>
 </ul>
