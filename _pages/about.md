@@ -23,9 +23,10 @@ I am now a final year Ph.D. candidate in ECE, Swanson School of Engineering, Uni
 
 My research interests includes: 
 <ul>
-    <li>Item A</li>
-    <li>Item B</li>
-    <li>Item C</li>
+    <li>Scalable Machine Learning:  Model compression for Deep Neural Networks (DNNs) and Large Language Models (LLMs). Differentiable Neural Architecture Search. </li>
+    <li>Efficient and Safe Cross-Modal Learning: Adversarial attack and defense on cross-modal datas. Efficient vision and language transformers and cross-domain CNNs. </li>
+    <li>Policy Gradient Methods for Reinforcement Learning: Variance-reduced policy gradient methods based on momentum techniques and mirror descent.</li>
+	<li>Zeroth-order optimization methods and other topics for optimization. Fairness in deep learning and interpretation guided models.</li>
 </ul>
 
 #Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
