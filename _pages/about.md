@@ -21,7 +21,7 @@ social: false  # includes social icons at the bottom of the page
 
 I am now a final year Ph.D. candidate in ECE, Swanson School of Engineering, University of Pittsburgh, supervised by Prof. Heng Huang. I am also a Research Scientist at Samsung Research America. Prior to that, I obtained my M.S. degree in Computer System Engineering at Northeastern University in 2017, and I obtained my B.S. degree in Electronic Engineering at Xidian University in 2015.
 
-<span style="color:red">Multiple PhD openings are available in AI/ML at Florida State University.</span> I am actively looking for highly self-motivated PhD students to work with me in areas related to improving the training and/or inference efficiency for large language models, diffusion models, and other models. Master/undergraduate students and remote interns are also welcome. To apply, please send me an email with your C.V. and transcripts. 
+<span style="color:red">Multiple PhD openings are available in AI/ML at Florida State University.</span> I am actively looking for highly self-motivated PhD students to work with me in areas related to improving the training and/or inference efficiency for large language models, diffusion models, and other models. Master/undergraduate students and remote interns are also welcome. To apply, please send me an email with your C.V. and transcripts to shg84@pitt.edu. 
 
 My research interests includes: 
 <ul>
