@@ -9,9 +9,15 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>shg84@pitt.edu</p>
+    <p>sgao@cs.fsu.edu</p>
     <p>[<a href="https://scholar.google.com/citations?user=9mNI83oAAAAJ&hl=en">Google Scholar</a>]</p>
     <p>[<a href="https://www.linkedin.com/in/shangqian-gao-864217141/">Linkedin</a>]</p>
+	<p>171 Love Building
+	1017 Academic Way
+	Department of Computer Science
+	Florida State University
+	Tallahassee, FL 32304
+	United States</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -19,7 +25,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am now a final year Ph.D. candidate in ECE, Swanson School of Engineering, University of Pittsburgh, supervised by Prof. Heng Huang. I am also a Research Scientist at Samsung Research America. Prior to that, I obtained my M.S. degree in Computer System Engineering at Northeastern University in 2017, and I obtained my B.S. degree in Electronic Engineering at Xidian University in 2015.
+I am an Assistant Professor in the Department of Computer Science at Florida State University. Before joining FSU, I worked as a Research Scientist at Samsung Research America, where I focused on enhancing the efficiency of Large Language Models. I earned my Ph.D. in Electrical and Computer Engineering from the Swanson School of Engineering at the University of Pittsburgh in 2024, under the supervision of Prof. Heng Huang. Before that, I obtained my M.S. degree in Computer Systems Engineering from Northeastern University in 2017 and my B.S. degree in Electronic Engineering from Xidian University in 2015.
 
 My research interests includes: 
 <ul>
