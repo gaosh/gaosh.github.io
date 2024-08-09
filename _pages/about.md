@@ -27,9 +27,11 @@ social: false  # includes social icons at the bottom of the page
 
 I am an Assistant Professor in the Department of Computer Science at Florida State University. Before joining FSU, I worked as a Research Scientist at Samsung Research America, where I focused on enhancing the efficiency of Large Language Models. I earned my Ph.D. in Electrical and Computer Engineering from the Swanson School of Engineering at the University of Pittsburgh in 2024, under the supervision of Prof. Heng Huang. Before that, I obtained my M.S. degree in Computer Systems Engineering from Northeastern University in 2017 and my B.S. degree in Electronic Engineering from Xidian University in 2015.
 
+<span style="color:red">Multiple PhD openings are available in AI/ML at Florida State University.</span> I am actively looking for highly self-motivated PhD students to work with me in areas related to improving the training and/or inference efficiency for large language models, diffusion models, and other models. Master/undergraduate students and remote interns are also welcome. To apply, please send me an email with your C.V. and transcripts to shg84@pitt.edu. 
+
 My research interests includes: 
 <ul>
-    <li>Scalable Machine Learning:  Model compression for Deep Neural Networks (DNNs) and Large Language Models (LLMs). Differentiable Neural Architecture Search. 
+    <li>Efficient Machine Learning:  Model compression for Deep Neural Networks (DNNs) and Large Language Models (LLMs). Differentiable Neural Architecture Search. 
 	[<a href="https://openaccess.thecvf.com/content_CVPR_2020/html/Gao_Discrete_Model_Compression_With_Resource_Constraint_for_Deep_Neural_Networks_CVPR_2020_paper.html">CVPR20</a>, 
 	<a href="https://openaccess.thecvf.com/content/CVPR2021/html/Gao_Network_Pruning_via_Performance_Maximization_CVPR_2021_paper.html">CVPR21</a>, 
 	<a href="https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_Exploration_and_Estimation_for_Model_Compression_ICCV_2021_paper.html">ICCV21</a>, 
