@@ -8,11 +8,11 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: 
+  more_info: >
     <p>sgao@cs.fsu.edu</p>
     <p>[<a href="https://scholar.google.com/citations?user=9mNI83oAAAAJ&hl=en">Google Scholar</a>]</p>
     <p>[<a href="https://www.linkedin.com/in/shangqian-gao-864217141/">Linkedin</a>]</p>
-	<p>171 Love Building, 1017 Academic Way, Department of Computer Science, Florida State University, Tallahassee, FL 32304, United States</p>
+    <p>171 Love Building, 1017 Academic Way, Department of Computer Science, Florida State University, Tallahassee, FL 32304, United States</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
