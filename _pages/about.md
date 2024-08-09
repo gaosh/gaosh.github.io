@@ -12,10 +12,10 @@ profile:
     <p>sgao@cs.fsu.edu</p>
     <p>[<a href="https://scholar.google.com/citations?user=9mNI83oAAAAJ&hl=en">Google Scholar</a>]</p>
     <p>[<a href="https://www.linkedin.com/in/shangqian-gao-864217141/">Linkedin</a>]</p>
-    <p>171 Love Building</p>
-    <p>1017 Academic Way</p>
-    <p>Department of Computer Science, Florida State University</p>
-    <p>Tallahassee, FL 32304</p>
+    <p><font size="2">171 Love Building</font></p>
+    <p><font size="2">1017 Academic Way</font></p>
+    <p><font size="2">Department of Computer Science, Florida State University</font></p>
+    <p><font size="2">Tallahassee, FL 32304</font></p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
