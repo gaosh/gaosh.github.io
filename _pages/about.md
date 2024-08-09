@@ -15,7 +15,7 @@ profile:
     <p>171 Love Building</p>
     <p>1017 Academic Way</p>
     <p>Department of Computer Science, Florida State University</p>
-    <p>Tallahassee, FL 32304, United States</p>
+    <p>Tallahassee, FL 32304</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
