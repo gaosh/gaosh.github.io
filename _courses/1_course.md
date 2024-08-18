@@ -1,12 +1,14 @@
 ---
-title: "Instructor of CIS 4930/CIS 5930: Computer Vision - 2024 Fall"
+title: "CIS 4930/CIS 5930"
 collection: courses
-type: "Undergraduate & graduate course"
-permalink: /courses/2024-fall-cv
-venue: "Florida State University"
+# type: "Undergraduate & graduate course"
+# permalink: /courses/2024-fall-cv
+# venue: "Florida State University"
 category: work
-date: 2024-08-26
-location: "Tallahassee, FL"
+img:
+description: Computer Vision - 2024 Fall
+# date: 2024-08-26
+# location: "Tallahassee, FL"
 importance: 1
 ---
 
