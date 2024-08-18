@@ -48,11 +48,11 @@ Students are encouraged to work in groups of three for their final project. You 
 
 ## Schedule
 
-|       Date        |             Topic             |  Materials   |      Notes       |
+<!-- |       Date        |             Topic             |  Materials   |      Notes       |
 | :---------------: | :---------------------------: | :----------: | :--------------: |
 |   8.27 (Tuesday)   |          Introduction       |              |                  |
-| 8.29 (Thursday)  |            ^^                   |              |                  |
-|   9.3 (Tuesday)    |          ^^          |           |         |
+| 8.29 (Thursday)  |            ^                  |              |                  |
+|   9.3 (Tuesday)    |          ^          |           |         |
 |  9.5 (Thursday)  |           Filtering and texture            |              |                  |
 | 9.10 (Tuesday) | ^| | |
 |   9.12 (Thursday)   |    ^                          |              |                  |
@@ -82,7 +82,218 @@ Students are encouraged to work in groups of three for their final project. You 
 |   12.5 (Thursday)   |   **Project Presentation**   |              |                  |
 |   12.10 (Tuesday)   |   **Project Presentation**    |              |                  |
 | 12.14 (Thursday) |    **Project Presentation**       |              |                  |
-| 12.15 (Friday)     | 🚨 Project DDL at 23:59 PM (AoE) |     N/A      | Not a class day. |
+| 12.15 (Friday)     | 🚨 Project DDL at 23:59 PM (AoE) |     N/A      | Not a class day. | -->
+
+<table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Topic</th>
+      <th>Materials</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>8.27 (Tuesday)</td>
+      <td rowspan="3">Introduction</td>
+      <td rowspan="3"></td>
+      <td rowspan="3"></td>
+    </tr>
+    <tr>
+      <td>8.29 (Thursday)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9.3 (Tuesday)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9.5 (Thursday)</td>
+      <td rowspan="3">Filtering and texture</td>
+      <td rowspan="3"></td>
+      <td rowspan="3"></td>
+    </tr>
+    <tr>
+      <td>9.10 (Tuesday)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9.12 (Thursday)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9.17 (Tuesday)</td>
+      <td rowspan="3">Feature detection and description</td>
+      <td rowspan="3"></td>
+      <td rowspan="3"></td>
+    </tr>
+    <tr>
+      <td>9.19 (Thursday)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9.24 (Tuesday)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9.26 (Thursday)</td>
+      <td rowspan="2">Edges, lines, circles and segment</td>
+      <td rowspan="2"></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td >9.31 (Tuesday)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10.3 (Thursday)</td>
+      <td rowspan="2">Multiple views</td>
+      <td rowspan="2"></td>
+      <td rowspan="2"></td>
+    </tr>
+    <tr>
+      <td>10.8 (Tuesday)</td>
+      <td>^</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10.10 (Thursday)</td>
+      <td rowspan="3">Intro to recognition</td>
+      <td rowspan="3"></td>
+      <td rowspan="3"></td>
+    </tr>
+    <tr>
+      <td>10.15 (Tuesday)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10.17 (Thursday)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10.22 (Tuesday)</td>
+      <td>Pytorch and Google Colab Tutorial</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10.24 (Thursday)</td>
+      <td rowspan="3">Convolutional neural networks</td>
+      <td rowspan="3"></td>
+      <td rowspan="3"></td>
+    </tr>
+    <tr>
+      <td>10.29 (Tuesday)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10.31 (Thursday)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>11.5 (Tuesday)</td>
+      <td rowspan="2">Object recognition, detection, segmentation</td>
+      <td rowspan="2"></td>
+      <td rowspan="2"></td>
+    </tr>
+    <tr>
+      <td>11.7 (Thursday)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>11.12 (Tuesday)</td>
+      <td rowspan="3">Vision and language, video and motion</td>
+      <td rowspan="3"></td>
+      <td rowspan="3"></td>
+    </tr>
+    <tr>
+      <td>11.14 (Thursday)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>11.19 (Tuesday)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>11.21 (Thursday)</td>
+      <td>Unsupervised learning</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>11.26 (Tuesday)</td>
+      <td>Self-supervised learning</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>11.28 (Thursday)</td>
+      <td>N/A</td>
+      <td>N/A</td>
+      <td>🏖️ No class.</td>
+    </tr>
+    <tr>
+      <td>12.3 (Tuesday)</td>
+      <td>Efficient Vision</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>12.5 (Thursday)</td>
+      <td><strong>Project Presentation</strong></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>12.10 (Tuesday)</td>
+      <td><strong>Project Presentation</strong></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>12.14 (Thursday)</td>
+      <td><strong>Project Presentation</strong></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>12.15 (Friday)</td>
+      <td>🚨 Project DDL at 23:59 PM (AoE)</td>
+      <td>N/A</td>
+      <td>Not a class day.</td>
+    </tr>
+  </tbody>
+</table>
 
 
 
