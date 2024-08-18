@@ -4,8 +4,10 @@ collection: courses
 type: "Undergraduate & graduate course"
 permalink: /courses/2024-fall-cv
 venue: "Florida State University"
+category: work
 date: 2024-08-26
 location: "Tallahassee, FL"
+importance: 1
 ---
 
 
