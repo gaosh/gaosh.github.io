@@ -134,7 +134,7 @@ Students are encouraged to work in groups of three for their final project. You 
       <td>9.26 (Thursday)</td>
       <td rowspan="2">Edges, lines, circles and segment</td>
       <td rowspan="2"></td>
-      <td></td>
+      <td rowspan="2"></td>
     </tr>
     <tr>
       <td >9.31 (Tuesday)</td>
@@ -200,10 +200,14 @@ Students are encouraged to work in groups of three for their final project. You 
     <tr>
       <td>11.21 (Thursday)</td>
       <td>Unsupervised learning</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>11.26 (Tuesday)</td>
       <td>Self-supervised learning</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>11.28 (Thursday)</td>
@@ -214,18 +218,26 @@ Students are encouraged to work in groups of three for their final project. You 
     <tr>
       <td>12.3 (Tuesday)</td>
       <td>Efficient Vision</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>12.5 (Thursday)</td>
       <td><strong>Project Presentation</strong></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>12.10 (Tuesday)</td>
       <td><strong>Project Presentation</strong></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>12.14 (Thursday)</td>
       <td><strong>Project Presentation</strong></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>12.15 (Friday)</td>
