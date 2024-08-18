@@ -27,6 +27,10 @@ location: "Tallahassee, FL"
 
 **Authors**: Richard Szeliski
 
+[*Deep Learning*](https://www.deeplearningbook.org/)
+
+**Authors**: Ian Goodfellow, Yoshua Bengio, Aaron Courville
+
 ## Grading
 Grading
 Grading will be based on the following components:
