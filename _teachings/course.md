@@ -51,8 +51,8 @@ Students are encouraged to work in groups of three for their final project. You 
 |       Date        |             Topic             |  Materials   |      Notes       |
 | :---------------: | :---------------------------: | :----------: | :--------------: |
 |   8.27 (Tuesday)   |          Introduction       |              |                  |
-| 8.29 (Thursday)  |            ^                   |              |                  |
-|   9.3 (Tuesday)    |          ^          |           |         |
+| 8.29 (Thursday)  |            ^^                   |              |                  |
+|   9.3 (Tuesday)    |          ^^          |           |         |
 |  9.5 (Thursday)  |           Filtering and texture            |              |                  |
 | 9.10 (Tuesday) | ^| | |
 |   9.12 (Thursday)   |    ^                          |              |                  |
