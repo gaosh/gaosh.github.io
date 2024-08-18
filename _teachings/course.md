@@ -163,6 +163,8 @@ Students are encouraged to work in groups of three for their final project. You 
     <tr>
       <td>10.22 (Tuesday)</td>
       <td>Pytorch and Google Colab Tutorial</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>10.24 (Thursday)</td>
