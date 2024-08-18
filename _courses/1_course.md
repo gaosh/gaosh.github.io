@@ -1,6 +1,7 @@
 ---
 title: "CIS 4930/CIS 5930"
 collection: courses
+layout: page
 # type: "Undergraduate & graduate course"
 # permalink: /courses/2024-fall-cv
 # venue: "Florida State University"
@@ -291,4 +292,4 @@ For this course, in particular, every student must complete his/her assignments,
 
 **Syllabus Change Policy**: Except for changes that substantially affect the implementation of the evaluation (grading) statement, this syllabus is a guide for the course and is subject to change with advance notice.
 
-**Ackowledgement**: The course is devepoed based on [**CS2770**](https://people.cs.pitt.edu/~kovashka/cs2770_sp18/), [**CS1674**](https://people.cs.pitt.edu/~kovashka/cs1674_fa23/) and [**CS1678**](https://people.cs.pitt.edu/~kovashka/cs1678_sp24/) from Univerity of Pittsbugh. All of these courses are taught by Dr. [**Adriana Kovashka**](https://people.cs.pitt.edu/~kovashka/). The course is also based on Dr. [**Xiuwen Liu**](https://www.cs.fsu.edu/~liux/)'s Computer Vision courses.
+**Ackowledgement**: The course is devepoed based on [**CS2770**](https://people.cs.pitt.edu/~kovashka/cs2770_sp18/), [**CS1674**](https://people.cs.pitt.edu/~kovashka/cs1674_fa23/) and [**CS1678**](https://people.cs.pitt.edu/~kovashka/cs1678_sp24/) from Univerity of Pittsbugh. All of these courses are taught by Dr. [**Adriana Kovashka**](https://people.cs.pitt.edu/~kovashka/). The course is also based on Dr. [**Xiuwen Liu's**](https://www.cs.fsu.edu/~liux/) Computer Vision courses.
