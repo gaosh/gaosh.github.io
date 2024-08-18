@@ -102,15 +102,9 @@ Students are encouraged to work in groups of three for their final project. You 
     </tr>
     <tr>
       <td>8.29 (Thursday)</td>
-      <td></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>9.3 (Tuesday)</td>
-      <td></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>9.5 (Thursday)</td>
@@ -120,15 +114,9 @@ Students are encouraged to work in groups of three for their final project. You 
     </tr>
     <tr>
       <td>9.10 (Tuesday)</td>
-      <td></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>9.12 (Thursday)</td>
-      <td></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>9.17 (Tuesday)</td>
@@ -138,15 +126,9 @@ Students are encouraged to work in groups of three for their final project. You 
     </tr>
     <tr>
       <td>9.19 (Thursday)</td>
-      <td></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>9.24 (Tuesday)</td>
-      <td></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>9.26 (Thursday)</td>
@@ -156,9 +138,6 @@ Students are encouraged to work in groups of three for their final project. You 
     </tr>
     <tr>
       <td >9.31 (Tuesday)</td>
-      <td></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>10.3 (Thursday)</td>
@@ -168,9 +147,6 @@ Students are encouraged to work in groups of three for their final project. You 
     </tr>
     <tr>
       <td>10.8 (Tuesday)</td>
-      <td>^</td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>10.10 (Thursday)</td>
@@ -180,21 +156,13 @@ Students are encouraged to work in groups of three for their final project. You 
     </tr>
     <tr>
       <td>10.15 (Tuesday)</td>
-      <td></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>10.17 (Thursday)</td>
-      <td></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>10.22 (Tuesday)</td>
       <td>Pytorch and Google Colab Tutorial</td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>10.24 (Thursday)</td>
@@ -204,15 +172,9 @@ Students are encouraged to work in groups of three for their final project. You 
     </tr>
     <tr>
       <td>10.29 (Tuesday)</td>
-      <td></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>10.31 (Thursday)</td>
-      <td></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>11.5 (Tuesday)</td>
@@ -222,9 +184,6 @@ Students are encouraged to work in groups of three for their final project. You 
     </tr>
     <tr>
       <td>11.7 (Thursday)</td>
-      <td></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>11.12 (Tuesday)</td>
@@ -234,27 +193,17 @@ Students are encouraged to work in groups of three for their final project. You 
     </tr>
     <tr>
       <td>11.14 (Thursday)</td>
-      <td></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>11.19 (Tuesday)</td>
-      <td></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>11.21 (Thursday)</td>
       <td>Unsupervised learning</td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>11.26 (Tuesday)</td>
       <td>Self-supervised learning</td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>11.28 (Thursday)</td>
@@ -265,26 +214,18 @@ Students are encouraged to work in groups of three for their final project. You 
     <tr>
       <td>12.3 (Tuesday)</td>
       <td>Efficient Vision</td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>12.5 (Thursday)</td>
       <td><strong>Project Presentation</strong></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>12.10 (Tuesday)</td>
       <td><strong>Project Presentation</strong></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>12.14 (Thursday)</td>
       <td><strong>Project Presentation</strong></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>12.15 (Friday)</td>
