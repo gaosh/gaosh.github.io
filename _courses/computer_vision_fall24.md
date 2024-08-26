@@ -20,7 +20,7 @@ importance: 1
 * 💡 **Teaching Assistants**: To be determined.
 * 📅 **Time**: Tuesday & Thursday, 4:50 pm-6:05 pm (ET)
 * 🏫 **Location**: [Classroom Building (HCB) 307](https://map.concept3d.com/?id=1235#!ce/33184?m/345264?s/classroom?mc/30.44730676902374,-84.29711900000001?z/16?lvl/0?share)
-* 🔍 **Office Hour**: To be determined.
+* 🔍 **Office Hour**: Tuesday & Thursday, 2:50 pm-4:50 pm (ET)
 * 🎒 **Format**: In-person only (unless there is a drastic change in the situation).
 
 ## Course Overview
@@ -45,13 +45,13 @@ Project (15% first presentation + 15% second presentation = 30%)
 
 * **First Project (20%)**: The first project will be a from scratch implementation of deep neural networks using a language of your choice. No auto-differentiation package (like Pytorch, Tensorflow, etc.) is allowed to use for this project.
 
-* **Second Project (25%)**: The second project does not have a specific topic. A good project should either propose a new method for addressing an existing problem or apply techniques we've studied in class (or other relevant methods) to a new, unaddressed problem. A borderline project will simply reimplement existing works. Given the GPU-intensive nature of modern computer vision research, we will aim to secure AWS education credits to support your projects. Additionally, [**Google Colab**](https://colab.research.google.com/github/phlippe/uvadlc_notebooks/blob/master/docs/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.ipynb) is available as an option for an easier start. 
+* **Second Project (25%)**: The second project does not have a specific topic. A good project should either propose a new method for addressing an existing problem or apply techniques we've studied in class (or other relevant methods) to a new, unaddressed problem. A borderline project will simply reimplement existing works. Given the GPU-intensive nature of modern computer vision research, we have several options: 1. Department GPUs, 2. [**Amazon SageMaker Studio**](https://aws.amazon.com/sagemaker/studio/), 3. [**Google Colab**](https://colab.research.google.com/github/phlippe/uvadlc_notebooks/blob/master/docs/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.ipynb). 
 
-Students are encouraged to work in groups of three for their final project. You are strongly encouraged to present a project proposal to the instructor during one office hours session. Please use visual aids (e.g., bring slides/figures/tables, and/or draw on the whiteboard during the conversation). The project proposal discussion should occur before the date indicated in the schedule. This component is not graded.
+Students are encouraged to work in groups of three for their final project. You are strongly encouraged to present a project proposal to the instructor during one office hours session. Please use visual aids (e.g., bring slides/figures/tables, and/or draw on the whiteboard during the conversation). The proposal discussion should take place within the first month of the course. This component is not graded.
 
 * **Participation and Quizs (10%)**
 
-* 🎁 **Extra Bonus**: (1) Students are highly encouraged to prepare for submissions to [**major CV/ML conferences**](https://aideadlin.es/?sub=CV,ML) based on their projects. Please be sure to make an appointment with the instructor prior to any submission plans to perform a comprehensive evaluation of the research topic. Each submission <u>under the instructor's recognition</u> will gain **<u>6 points</u>** on their final grades; (2) Students are highly encouraged to provide feedback on the development of this course. At the end of this semester, <u>a feedback survey completion rate exceeding 70%</u> will lead to an additional **<u>3 points</u>** for everyone enrolled in this class.
+* 🎁 **Extra Bonus**: (1) Projects with potentials to be submitted to [**major CV/ML conferences**](https://aideadlin.es/?sub=CV,ML) will get extra bonus. Please make an appointment with the instructor for a comprehensive evaluation of the research project for the extra bonus. Each project <u>under the instructor's recognition</u> will gain **<u>6 points</u>** on their final grades; (2) Students are highly encouraged to provide feedback on the development of this course. At the end of this semester, <u>a feedback survey completion rate exceeding 70%</u> will lead to an additional **<u>3 points</u>** for everyone enrolled in this class.
 
 
 
