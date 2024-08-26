@@ -39,19 +39,17 @@ importance: 1
 ## Grading
 Grading
 Grading will be based on the following components:
-Homework assignments (3 assignments x 10% each = 30%)
-Project (15% first presentation + 15% second presentation = 30%)
 * **Homework Assignments (45%)** (3 assignments x 15% each = 45%)
 
 * **First Project (20%)**: The first project will be a from scratch implementation of deep neural networks using a language of your choice. No auto-differentiation package (like Pytorch, Tensorflow, etc.) is allowed to use for this project.
 
 * **Second Project (25%)**: The second project does not have a specific topic. A good project should either propose a new method for addressing an existing problem or apply techniques we've studied in class (or other relevant methods) to a new, unaddressed problem. A borderline project will simply reimplement existing works. Given the GPU-intensive nature of modern computer vision research, we have several options: 1. Department GPUs, 2. [**Amazon SageMaker Studio**](https://aws.amazon.com/sagemaker/studio/), 3. [**Google Colab**](https://colab.research.google.com/github/phlippe/uvadlc_notebooks/blob/master/docs/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.ipynb). 
 
-Students are encouraged to work in groups of three for their final project. You are strongly encouraged to present a project proposal to the instructor during one office hours session. Please use visual aids (e.g., bring slides/figures/tables, and/or draw on the whiteboard during the conversation). The proposal discussion should take place within the first month of the course. This component is not graded.
+Students are encouraged to work in groups of three for their final project. You are strongly encouraged to present a project proposal to the instructor during one office hours session. Please use visual aids (e.g., bring slides/figures/tables, and/or draw on the whiteboard during the conversation). The proposal discussion should take place within the first month of the course. This component is not graded. The final project contains two parts: 10% presentation + 15% project report.
 
 * **Participation and Quizs (10%)**
 
-* 🎁 **Extra Bonus**: (1) Projects with potentials to be submitted to [**major CV/ML conferences**](https://aideadlin.es/?sub=CV,ML) will get extra bonus. Please make an appointment with the instructor for a comprehensive evaluation of the research project for the extra bonus. Each project <u>under the instructor's recognition</u> will gain **<u>6 points</u>** on their final grades; (2) Students are highly encouraged to provide feedback on the development of this course. At the end of this semester, <u>a feedback survey completion rate exceeding 70%</u> will lead to an additional **<u>3 points</u>** for everyone enrolled in this class.
+* 🎁 **Extra Bonus**: (1) Projects with potentials to be submitted to [**major CV/ML conferences**](https://aideadlin.es/?sub=CV,ML) will get extra bonus. Please make an appointment with the instructor for a comprehensive evaluation of the research project for the extra bonus. Each project <u>under the instructor's recognition</u> will gain **<u>10 points</u>** on their final grades; (2) Students are highly encouraged to provide feedback on the development of this course. At the end of this semester, <u>a feedback survey completion rate exceeding 70%</u> will lead to an additional **<u>3 points</u>** for everyone enrolled in this class.
 
 
 
