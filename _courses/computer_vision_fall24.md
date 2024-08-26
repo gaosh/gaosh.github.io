@@ -49,7 +49,7 @@ Students are encouraged to work in groups of three for their final project. You 
 
 * **Participation and Quizs (10%)**
 
-* 🎁 **Extra Bonus**: (1) Projects with potentials to be submitted to [**major CV/ML conferences**](https://aideadlin.es/?sub=CV,ML) will get extra bonus. Please make an appointment with the instructor for a comprehensive evaluation of the research project for the extra bonus. Each project <u>under the instructor's recognition</u> will gain **<u>10 points</u>** on their final grades; (2) Students are highly encouraged to provide feedback on the development of this course. At the end of this semester, <u>a feedback survey completion rate exceeding 70%</u> will lead to an additional **<u>3 points</u>** for everyone enrolled in this class.
+* 🎁 **Extra Bonus**: (1) Projects with potentials to be submitted to [**major CV/ML conferences**](https://aideadlin.es/?sub=CV,ML) will get extra bonus. Please make an appointment with the instructor for a comprehensive evaluation of the research project for the extra bonus. Each project <u>under the instructor's recognition</u> will gain **<u>10 points</u>** on their final grades; (2) Students are highly encouraged to provide feedback on the development of this course. At the end of this semester, <u>a feedback survey completion rate exceeding 70%</u> will lead to an additional **<u>5 points</u>** for everyone enrolled in this class.
 
 
 
