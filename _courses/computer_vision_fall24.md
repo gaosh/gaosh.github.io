@@ -104,7 +104,7 @@ Students are encouraged to work in groups of three for their final project. You 
     <tr>
       <td>8.27 (Tuesday)</td>
       <td rowspan="3">Introduction</td>
-      <td rowspan="3">Readings: Szeliski Sec. 1.1, 1.2 [slides](https://docs.google.com/presentation/d/1yb2OfMY6xHWnYPQjyb0KzjXNhwpgUXDh/edit?usp=drive_link&ouid=118238035852217006141&rtpof=true&sd=true)
+      <td rowspan="3">Readings: Szeliski Sec. 1.1, 1.2 <a href="https://docs.google.com/presentation/d/1yb2OfMY6xHWnYPQjyb0KzjXNhwpgUXDh/edit?usp=drive_link&ouid=118238035852217006141&rtpof=true&sd=true">Slides</a>
 </td>
       <td rowspan="3"></td>
     </tr>
@@ -117,7 +117,7 @@ Students are encouraged to work in groups of three for their final project. You 
     <tr>
       <td>9.5 (Thursday)</td>
       <td rowspan="3">Filtering and texture</td>
-      <td rowspan="3">Readings: Szeliski Sec. 3.1-3.3 [slides](https://docs.google.com/presentation/d/1w6eCF2td9r786nYboelvtvAJg0eqkJm-/edit?usp=drive_link&ouid=118238035852217006141&rtpof=true&sd=true)
+      <td rowspan="3">Readings: Szeliski Sec. 3.1-3.3 <a href="https://docs.google.com/presentation/d/1w6eCF2td9r786nYboelvtvAJg0eqkJm-/edit?usp=drive_link&ouid=118238035852217006141&rtpof=true&sd=true">Slides</a>
 </td>
       <td rowspan="3"></td>
     </tr>
