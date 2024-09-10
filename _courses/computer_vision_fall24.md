@@ -17,11 +17,11 @@ importance: 1
 
 ## **Administrivia**
 * 📢 **Instructor**: [**Dr. Shangqian Gao**](https://gaosh.github.io/index.html) (sg24bi[at]fsu[dot]edu)
-* 💡 **Teaching Assistants**: To be determined.
 * 📅 **Time**: Tuesday & Thursday, 4:50 pm-6:05 pm (ET)
 * 🏫 **Location**: [Classroom Building (HCB) 307](https://map.concept3d.com/?id=1235#!ce/33184?m/345264?s/classroom?mc/30.44730676902374,-84.29711900000001?z/16?lvl/0?share)
 * 🔍 **Office Hour**: Tuesday & Thursday, 2:50 pm-4:50 pm (ET)
 * 🎒 **Format**: In-person only (unless there is a drastic change in the situation).
+* 💡 **Teaching Assistants**: Ruoyu Li **TA Office Hour**: Tuesday, 9:30am-11:30am (ET) **TA Office**: Love 0025A (inside the Majors Lab)
 
 ## Course Overview
 🚀 In this course, students will explore the field of modern computer vision. The curriculum is divided into two main sections: Low-level Vision and High-level Vision. Low-level Vision focuses on classical computer vision methods for extracting basic visual features, and High-level Vision covers more recent advances of computer vision by incoperating deep neural networks to perform complex tasks.
