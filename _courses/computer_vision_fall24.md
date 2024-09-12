@@ -119,7 +119,7 @@ Students are encouraged to work in groups of three for their final project. You 
       <td rowspan="3">Filtering and texture</td>
       <td rowspan="3">Readings: Szeliski Sec. 3.1-3.3 <a href="https://docs.google.com/presentation/d/1w6eCF2td9r786nYboelvtvAJg0eqkJm-/edit?usp=drive_link&ouid=118238035852217006141&rtpof=true&sd=true">Slides</a>
 </td>
-      <td rowspan="3"></td>
+      <td rowspan="3">HW1 out 9/12</td>
     </tr>
     <tr>
       <td>9.10 (Tuesday)</td>
@@ -130,7 +130,7 @@ Students are encouraged to work in groups of three for their final project. You 
     <tr>
       <td>9.17 (Tuesday)</td>
       <td rowspan="3">Feature detection and description</td>
-      <td rowspan="3"></td>
+      <td rowspan="3"><a href="https://docs.google.com/presentation/d/1hRGyR6-oBtOhJ0Hyo750EjzQigfHkrb1/edit?usp=drive_link&ouid=118238035852217006141&rtpof=true&sd=true">Slides</a></td>
       <td rowspan="3"></td>
     </tr>
     <tr>
@@ -152,7 +152,7 @@ Students are encouraged to work in groups of three for their final project. You 
       <td>10.3 (Thursday)</td>
       <td rowspan="2">Multiple views</td>
       <td rowspan="2"></td>
-      <td rowspan="2"></td>
+      <td rowspan="2">HW1 due 10/5</td>
     </tr>
     <tr>
       <td>10.8 (Tuesday)</td>
