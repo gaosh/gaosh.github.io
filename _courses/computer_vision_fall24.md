@@ -141,7 +141,7 @@ Students are encouraged to work in groups of three for their final project. You 
     </tr>
     <tr>
       <td>9.26 (Thursday)</td>
-      <td rowspan="2">Edges, lines, circles and segment</td>
+      <td rowspan="2">Lines, circles and segment</td>
       <td rowspan="2"></td>
       <td rowspan="2"></td>
     </tr>
