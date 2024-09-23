@@ -130,7 +130,7 @@ Students are encouraged to work in groups of three for their final project. You 
     <tr>
       <td>9.17 (Tuesday)</td>
       <td rowspan="3">Feature detection and description</td>
-      <td rowspan="3"><a href="https://docs.google.com/presentation/d/1hRGyR6-oBtOhJ0Hyo750EjzQigfHkrb1/edit?usp=drive_link&ouid=118238035852217006141&rtpof=true&sd=true">Slides</a></td>
+      <td rowspan="3">Readings: Szeliski 7.1 <a href="https://docs.google.com/presentation/d/1hRGyR6-oBtOhJ0Hyo750EjzQigfHkrb1/edit?usp=drive_link&ouid=118238035852217006141&rtpof=true&sd=true">Slides</a></td>
       <td rowspan="3"></td>
     </tr>
     <tr>
