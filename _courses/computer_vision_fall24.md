@@ -142,7 +142,7 @@ Students are encouraged to work in groups of three for their final project. You 
     <tr>
       <td>9.26 (Thursday)</td>
       <td rowspan="2">Lines, circles and segment</td>
-      <td rowspan="2"></td>
+      <td rowspan="2">Readings: Szeliski 6.1 <a href="https://docs.google.com/presentation/d/1FwZqMfCV5STQcX8SRjdikggqDpURp3eI/edit?usp=sharing&ouid=118238035852217006141&rtpof=true&sd=true">Slides</a></td>
       <td rowspan="2"></td>
     </tr>
     <tr>
