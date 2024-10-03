@@ -148,14 +148,14 @@ Students are encouraged to work in groups of three for their final project. You 
     <tr>
       <td >9.31 (Tuesday)</td>
       <td rowspan="1">Lines, circles and segment</td>
-      <td rowspan="1">Readings: Szeliski 6.1 <a href="https://docs.google.com/presentation/d/1FwZqMfCV5STQcX8SRjdikggqDpURp3eI/edit?usp=sharing&ouid=118238035852217006141&rtpof=true&sd=true">Slides</a></td>
+      <td rowspan="1">Readings: Szeliski Sec. 5.2.1, 5.2.2, 7.2, 7.5, 7.4.2 <a href="https://docs.google.com/presentation/d/1FwZqMfCV5STQcX8SRjdikggqDpURp3eI/edit?usp=sharing&ouid=118238035852217006141&rtpof=true&sd=true">Slides</a></td>
       <td rowspan="1"></td>
     </tr>
     <tr>
       <td>10.3 (Thursday)</td>
       <td rowspan="2">Multiple views</td>
-      <td rowspan="2"></td>
-      <td rowspan="2">HW1 due 10/5</td>
+      <td rowspan="2">Readings: Szeliski Sec 2.1, 3.6.1, 11.3 <a href="https://docs.google.com/presentation/d/1_g-xM6C6gcXw6nkNS-6Z0Yyi7uhYDFOE/edit?usp=sharing&ouid=118238035852217006141&rtpof=true&sd=true">Slides</a></td>
+      <td rowspan="2">HW1 due 10/7</td>
     </tr>
     <tr>
       <td>10.8 (Tuesday)</td>
