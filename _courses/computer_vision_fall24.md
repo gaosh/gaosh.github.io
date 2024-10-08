@@ -163,8 +163,8 @@ Students are encouraged to work in groups of three for their final project. You 
     <tr>
       <td>10.10 (Thursday)</td>
       <td rowspan="3">Intro to recognition</td>
-      <td rowspan="3"></td>
-      <td rowspan="3"></td>
+      <td rowspan="3">Szeliski Sec. 5.1, 6.1, 6.2 <a href="https://docs.google.com/presentation/d/1IO6e3TsmGl-98-GJZU8ol4iBqmfx9FUD/edit?usp=sharing&ouid=118238035852217006141&rtpof=true&sd=true">Slides</a></td>
+      <td rowspan="3">HW2 out 10/9</td>
     </tr>
     <tr>
       <td>10.15 (Tuesday)</td>
