@@ -175,7 +175,7 @@ Students are encouraged to work in groups of three for their final project. You 
     <tr>
       <td>10.22 (Tuesday)</td>
       <td>Pytorch and Google Colab Tutorial</td>
-      <td></td>
+      <td> Tutorial Slides by Ruoyu <a href="https://drive.google.com/file/d/10jatskp2h8T4rrrTlIlfLxULZB-zpEQ_/view?usp=sharing">Slides</a> </td>
       <td></td>
     </tr>
     <tr>
