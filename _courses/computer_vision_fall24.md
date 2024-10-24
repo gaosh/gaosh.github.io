@@ -181,7 +181,7 @@ Students are encouraged to work in groups of three for their final project. You 
     <tr>
       <td>10.24 (Thursday)</td>
       <td rowspan="3">Convolutional neural networks</td>
-      <td rowspan="3"></td>
+      <td rowspan="3">Goodfellow Sec. 4.2, 4.3, Ch. 6 <a href="https://docs.google.com/presentation/d/1Do8DvCYdNWTzKO6jEwgTOBP7vtQlUj5f/edit?usp=sharing&ouid=118238035852217006141&rtpof=true&sd=true">Slides</a></td>
       <td rowspan="3"></td>
     </tr>
     <tr>
