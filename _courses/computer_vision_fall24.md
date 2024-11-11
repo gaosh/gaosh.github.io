@@ -193,7 +193,7 @@ Students are encouraged to work in groups of three for their final project. You 
     <tr>
       <td>11.5 (Tuesday)</td>
       <td rowspan="2">Object recognition, detection, segmentation</td>
-      <td rowspan="2"></td>
+      <td rowspan="2">Szeliski Sec. 6.3, 6.4 <a href="https://docs.google.com/presentation/d/1PvMXFrY6BQ0SOZPAz-_WiHkmwLvKJcHM/edit?usp=drive_link&ouid=118238035852217006141&rtpof=true&sd=true">Slides</a></td>
       <td rowspan="2"></td>
     </tr>
     <tr>
