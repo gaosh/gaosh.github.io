@@ -202,7 +202,7 @@ Students are encouraged to work in groups of three for their final project. You 
     <tr>
       <td>11.12 (Tuesday)</td>
       <td rowspan="3">Vision and language, video and motion</td>
-      <td rowspan="3"></td>
+      <td rowspan="3">Szeliski Sec. 5.5.1, 5.5.2, 6.5, 6.6 <a href="https://docs.google.com/presentation/d/1iiYVSlv8ElrM9ZxEs29_yLLda17N3Hf6/edit?usp=sharing&ouid=118238035852217006141&rtpof=true&sd=true">Slides</a></td>
       <td rowspan="3"></td>
     </tr>
     <tr>
