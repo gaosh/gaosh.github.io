@@ -213,15 +213,12 @@ Students are encouraged to work in groups of three for their final project. You 
     </tr>
     <tr>
       <td>11.21 (Thursday)</td>
-      <td>Unsupervised learning</td>
-      <td></td>
-      <td></td>
+      <td rowspan="2">Unsupervised learning</td>
+      <td rowspan="2">Szeliski Sec. 5.5.4 <a href="https://docs.google.com/presentation/d/1VJCl9IVEZxQFshQxY10xZYQsdXndU5FZ/edit?usp=sharing&ouid=118238035852217006141&rtpof=true&sd=true">Slides</a></td>
+      <td rowspan="2"></td>
     </tr>
     <tr>
       <td>11.26 (Tuesday)</td>
-      <td>Self-supervised learning</td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>11.28 (Thursday)</td>
@@ -231,7 +228,7 @@ Students are encouraged to work in groups of three for their final project. You 
     </tr>
     <tr>
       <td>12.3 (Tuesday)</td>
-      <td>Efficient Vision</td>
+      <td>Unsupervised learning (continued)</td>
       <td></td>
       <td></td>
     </tr>
@@ -248,13 +245,13 @@ Students are encouraged to work in groups of three for their final project. You 
       <td></td>
     </tr>
     <tr>
-      <td>12.14 (Thursday)</td>
+      <td>12.12 (Thursday)</td>
       <td><strong>Project Presentation</strong></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>12.15 (Friday)</td>
+      <td>12.13 (Friday)</td>
       <td>🚨 Project DDL at 23:59 PM (AoE)</td>
       <td>N/A</td>
       <td>Not a class day.</td>
