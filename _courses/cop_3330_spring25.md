@@ -31,13 +31,14 @@ A C- or better in COP 3014 or COP 3363 or an equivalent introductory programming
 Absolute C++ (3rd Edition) authored by Walter Savitch
 
 ## Course Objectives
-Upon completion of the course, the student will: 
-• Understand the Object-Oriented Programming concept and be able to discuss the differences between procedural and object-oriented languages. 
-• Demonstrate the ability to create and use classes within the C++ programming language 
-• Demonstrate the ability to create, compile, and execute programs in multiple compiler environments (typically Microsoft Visual C++ and the GNU g++ compiler in unix) using the Object-Oriented design model. 
-• Be able to build C++ classes using appropriate encapsulation and design principles 
-• Demonstrate the use of arrays and pointers in the solution of programming problems using C++ 
-• Be able to program using important C++ techniques, such as composition of objects, operator overloads, dynamic memory allocation, inheritance and polymorphism, file I/O, exception handling, templates, bitwise operations, preprocessor directives, and basic data structure
+Upon completion of the course, the student will:
+
+- **Understand the Object-Oriented Programming concept** and be able to discuss the differences between procedural and object-oriented languages.  
+- **Demonstrate the ability to create and use classes** within the C++ programming language.  
+- **Demonstrate the ability to create, compile, and execute programs** in multiple compiler environments (typically Microsoft Visual C++ and the GNU g++ compiler in Unix) using the Object-Oriented design model.  
+- **Be able to build C++ classes** using appropriate encapsulation and design principles.  
+- **Demonstrate the use of arrays and pointers** in the solution of programming problems using C++.  
+- **Be able to program using important C++ techniques**, such as composition of objects, operator overloads, dynamic memory allocation, inheritance and polymorphism, file I/O, exception handling, templates, bitwise operations, preprocessor directives, and basic data structures.
 
 ## Course Assignments and Evaluation
 The final course grade consists of the following components:
@@ -56,38 +57,81 @@ All programming assignment submissions **MUST** be accompanied by a link to a vi
    - Discuss how you plan to address the issue.
 4. **Reflection on the most difficult part of the assignment**  
    - Explain how you worked through the challenge.
+
 Video links should be added as a comment on the submission. **Do not** upload video files to Canvas. **Do not** include the link in your code submission.
 
 ## Late Assignments
 The course schedule shows the general timing of assignments to assist you in staying on track. Assignments will be accepted up to **three days** late for a **15% penalty**. Assignments will be accepted after the late deadline with an excuse on a case-by-case basis. **Note** that after solutions are posted, any assignments accepted past that point will be subject to requirements modifications, resulting in a different assignment than the original. It is in your best interest to let me know **ASAP** if you will miss a deadline (with an excuse) so we can be proactive.
 
 ## Final Grades
-| Grade | Range    |
-|-------|----------|
-| **A**  | 93–100   |
-| **A-** | 90–92    |
-| **B+** | 87–89    |
-| **B**  | 83–86    |
-| **B-** | 80–82    |
-| **C+** | 77–79    |
-| **C**  | 73–76    |
-| **C-** | 70–72    |
-| **D+** | 67–69    |
-| **D**  | 63–66    |
-| **D-** | 60–62    |
-| **F**  | 0–59     |
+<table>
+  <thead>
+    <tr>
+      <th>Grade</th>
+      <th>Range</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>A</td>
+      <td>93–100</td>
+    </tr>
+    <tr>
+      <td>A-</td>
+      <td>90–92</td>
+    </tr>
+    <tr>
+      <td>B+</td>
+      <td>87–89</td>
+    </tr>
+    <tr>
+      <td>B</td>
+      <td>83–86</td>
+    </tr>
+    <tr>
+      <td>B-</td>
+      <td>80–82</td>
+    </tr>
+    <tr>
+      <td>C+</td>
+      <td>77–79</td>
+    </tr>
+    <tr>
+      <td>C</td>
+      <td>73–76</td>
+    </tr>
+    <tr>
+      <td>C-</td>
+      <td>70–72</td>
+    </tr>
+    <tr>
+      <td>D+</td>
+      <td>67–69</td>
+    </tr>
+    <tr>
+      <td>D</td>
+      <td>63–66</td>
+    </tr>
+    <tr>
+      <td>D-</td>
+      <td>60–62</td>
+    </tr>
+    <tr>
+      <td>F</td>
+      <td>0–59</td>
+    </tr>
+  </tbody>
+</table>
 
-## Course Attendance Policy
+**Course Attendance Policy:**
 Attendance is merged with participation, and attendance will be measured by in-class or recitation quizzes.
 
-## University Attendance Policy
+**University Attendance Policy:**
 Excused absences include documented illness, deaths in the family and other documented crises, call to active military duty or jury duty, religious holy days, and official University activities. These absences will be accommodated in a way that does not arbitrarily penalize students who have a valid written excuse. Consideration will also be given to students whose dependent children experience serious illness.
 
-## Academic Honor Policy
-The Florida State University, Academic Honor Policy, outlines the University’s expectations for the integrity of student’s academic work, the procedures for resolving alleged violations of those expectations, and the rights and responsibilities of students and faculty members throughout the process. Students are responsible for reading the Academic Honor Policy and for living up to their pledge to . . . be honest and truthful and . . . [to] strive for personal and institutional integrity at Florida State University. (Florida State University Academic Honor Policy, found at http://fda.fsu.edu/Academics/Academic-Honor-Policy).
+**Academic Honor Policy:** The Florida State University, Academic Honor Policy, outlines the University’s expectations for the integrity of student’s academic work, the procedures for resolving alleged violations of those expectations, and the rights and responsibilities of students and faculty members throughout the process. Students are responsible for reading the Academic Honor Policy and for living up to their pledge to . . . be honest and truthful and . . . [to] strive for personal and institutional integrity at Florida State University. (Florida State University Academic Honor Policy, found at http://fda.fsu.edu/Academics/Academic-Honor-Policy).
 
-## All work in this course is intended to be done individually
-In addition to this information, please be aware of the following:
+**All work in this course is intended to be done individually.** In addition to this information, please be aware of the following:
 
 - **It is NOT APPROPRIATE** to utilize websites such as **CHEGG.com**, **COURSEHERO.com**, etc. **DO NOT** post our assignments to these websites to solicit answers, and **DO NOT** use/view/utilize the “solutions” found on these websites. Doing so is in direct violation of the FSU honor policy.
 
@@ -115,8 +159,7 @@ In addition to this information, please be aware of the following:
 
 - Any **second violation** of the honor code will result in an **automatic F** in the course, and possible proceedings before the FSU Honor Code Committee.
 
-## Academic success
-Your academic success is a top priority at Florida State University. The university provides a range of resources to help you succeed, including tutoring centers, computer labs, counseling and health services, and services for designated groups—such as veterans and students with disabilities. The following information is not exhaustive, so please check with your advisor or the Dean of Students office to learn more.
+**Academic success:** Your academic success is a top priority at Florida State University. The university provides a range of resources to help you succeed, including tutoring centers, computer labs, counseling and health services, and services for designated groups—such as veterans and students with disabilities. The following information is not exhaustive, so please check with your advisor or the Dean of Students office to learn more.
 
 **Americans with Disabilities Act:** Students with disabilities needing academic accommodation should: (1) register with and provide documentation to the Office of Accessibility Services; (2) bring a letter to the instructor indicating the need for accommodation and what type; (3) meet (in person, via phone, email, skype, zoom, etc...) with each instructor to whom a letter of accommodation was sent to review approved accommodations. Please note that instructors are not allowed to provide classroom accommodation to a student until appropriate verification from the Office of Accessibility Services has been provided. This syllabus and other class materials are available in an alternative format upon request. For more information about services available to FSU students with disabilities, contact the: Office of Accessibility Services, 874 Traditions Way, 108 Student Services Building, Florida State University, Tallahassee, FL 32306-4167; (850) 644-9566 (voice); (850) 644-8504 (TDD), oas@fsu.edu, https://dsst.fsu.edu/oas/
 
