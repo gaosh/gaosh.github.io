@@ -10,7 +10,7 @@ img:
 description:  Data Structures, Algorithms, and Generic Programming I (a.k.a. Object-Oriented Programming) Spring 2025
 # date: 2024-08-26
 # location: "Tallahassee, FL"
-importance: 1
+importance: 2
 ---
 
 ## **Administrivia**
