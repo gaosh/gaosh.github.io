@@ -17,7 +17,7 @@ importance: 2
 * 📢 **Instructor**: [**Dr. Shangqian Gao**](https://gaosh.github.io/index.html) (sg24bi[at]fsu[dot]edu)
 * 📅 **Time**:  MoWeFr, 9:20 am-10:10 am (ET)
 * 🏫 **Location**: [BEL 0180](https://map.concept3d.com/?id=1235#!ce/33184?m/345084?s/BEL%200180)
-* 🔍 **Office Hour**: Wednesday, 11:00 pm-1:00 pm (ET), 171 Love Building 
+* 🔍 **Office Hour**: Wednesday, 1:00 pm-3:00 pm (ET), 171 Love Building 
 * 🎒 **Format**: In-person only (unless there is a drastic change in the situation).
 * 💡 **Teaching Assistants**: TBD
 
@@ -28,7 +28,7 @@ This course focuses on preparing students for upper-division courses in computer
 A C- or better in COP 3014 or COP 3363 or an equivalent introductory programming course 
 
 ## Textbook
-Absolute C++ (3rd Edition) authored by Walter Savitch
+Absolute C++ (6th Edition) authored by Walter Savitch
 
 ## Course Objectives
 Upon completion of the course, the student will:
