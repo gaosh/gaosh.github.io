@@ -28,7 +28,7 @@ This course focuses on preparing students for upper-division courses in computer
 A C- or better in COP 3014 or COP 3363 or an equivalent introductory programming course 
 
 ## Textbook
-Absolute C++ (6th Edition) authored by Walter Savitch
+Absolute C++ (6th Edition) authored by Walter Savitch., Addison-Wesley, ISBN: 0133970787
 
 ## Course Objectives
 Upon completion of the course, the student will:
@@ -39,6 +39,18 @@ Upon completion of the course, the student will:
 - **Be able to build C++ classes** using appropriate encapsulation and design principles.  
 - **Demonstrate the use of arrays and pointers** in the solution of programming problems using C++.  
 - **Be able to program using important C++ techniques**, such as composition of objects, operator overloads, dynamic memory allocation, inheritance and polymorphism, file I/O, exception handling, templates, bitwise operations, preprocessor directives, and basic data structures.
+
+## How-to Resources at FSU
+* [Information about CS account for this class](https://www.cs.fsu.edu/~myers/howto/account.html)
+* Systems Group Pages regarding CS account creation:
+    * [SSH How to Access Computer Science Department Servers](https://system.cs.fsu.edu/new/newuser/ssh-how-to/)
+    * [CS account setup](https://system.cs.fsu.edu/new/newuser/cs-account-setup/)
+* [Command-line SSH and Sftp](https://www.cs.fsu.edu/~myers/howto/commandLineSSH.html)
+* [Instructions for compiling with g++ (in unix)](https://www.cs.fsu.edu/~myers/howto/g++compiling.txt)
+* [Building makefiles (for use with g++)](https://www.cs.fsu.edu/~myers/howto/makefiles.txt)
+* Unix Tutorials and Help Sites
+    * [Basic Unix Tutorial](https://www.cs.fsu.edu/~myers/howto/UnixTutorial.txt)
+    * [UNIX Tutorial for Beginners](https://www.cs.fsu.edu/~myers/howto/UnixTutorial.txt)
 
 ## Course Assignments and Evaluation
 The final course grade consists of the following components:
@@ -175,4 +187,4 @@ Excused absences include documented illness, deaths in the family and other docu
 
 **Syllabus Change Policy**: Except for changes that substantially affect the implementation of the evaluation (grading) statement, this syllabus is a guide for the course and is subject to change with advance notice.
 
-**Ackowledgement**: The course is developed based on COP 3330 previously taught by Dr.Bob Myers and Dr.Chris Mills.
+**Ackowledgement**: The course is developed based on COP 3330 previously taught by Prof.Bob Myers and Dr.Chris Mills.
