@@ -52,6 +52,32 @@ Upon completion of the course, the student will:
     * [Basic Unix Tutorial](https://www.cs.fsu.edu/~myers/howto/UnixTutorial.txt)
     * [UNIX Tutorial for Beginners](https://www.cs.fsu.edu/~myers/howto/UnixTutorial.txt)
 
+## Course schedule
+<table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Topic</th>
+      <th>Materials</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Week 1 (Jan 6th to Jan 12th)</td>
+      <td>Introduction and Review of C++ Basics</td>
+      <td><a href="https://fsu-my.sharepoint.com/:b:/r/personal/sg24bi_fsu_edu/Documents/COP%203330/0%20Introduction%20to%20COP%203330.pdf?csf=1&web=1&e=bhX7ks">Introduction Slides</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Week 2 (Jan 13th to Jan 19th)</td>
+      <td>Review of C++ Basics</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
 ## Course Assignments and Evaluation
 The final course grade consists of the following components:
 * **Homework Assignments (48%)** (8%x6 = 48%)
