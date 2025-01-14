@@ -66,7 +66,7 @@ Upon completion of the course, the student will:
     <tr>
       <td>Week 1 (Jan 6th to Jan 12th)</td>
       <td>Introduction and Review of C++ Basics</td>
-      <td><a href="https://fsu-my.sharepoint.com/:b:/g/personal/sg24bi_fsu_edu/ERx5k-wkQddPr4beXEHpQk0BVk7E-x-Xjuay_mB8mVLJ3A?e=S0t4tp">Introduction Slides</a></td>
+      <td><a href="https://fsu-my.sharepoint.com/:b:/g/personal/sg24bi_fsu_edu/ERx5k-wkQddPr4beXEHpQk0BhfIwXRnQU7YkzN8oRTXW9w?e=Mu0qWO">Introduction Slides</a></td>
       <td></td>
     </tr>
     <tr>
