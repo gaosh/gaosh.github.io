@@ -66,7 +66,7 @@ Upon completion of the course, the student will:
     <tr>
       <td>Week 1 (Jan 6th to Jan 12th)</td>
       <td>Introduction and Review of C++ Basics</td>
-      <td><a href="https://fsu-my.sharepoint.com/:b:/r/personal/sg24bi_fsu_edu/Documents/COP%203330/0%20Introduction%20to%20COP%203330.pdf?csf=1&web=1&e=bhX7ks">Introduction Slides</a></td>
+      <td><a href="https://fsu-my.sharepoint.com/:b:/g/personal/sg24bi_fsu_edu/ERx5k-wkQddPr4beXEHpQk0BVk7E-x-Xjuay_mB8mVLJ3A?e=S0t4tp">Introduction Slides</a></td>
       <td></td>
     </tr>
     <tr>
