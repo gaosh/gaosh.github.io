@@ -72,8 +72,8 @@ Upon completion of the course, the student will:
     <tr>
       <td>Week 2 (Jan 13th to Jan 19th)</td>
       <td>Review of C++ Basics</td>
-      <td></td>
       <td><a href="https://fsu-my.sharepoint.com/:b:/g/personal/sg24bi_fsu_edu/ET2XBV92B4xJsB24onV1aNsBtLs5YJjXjsWnBPz8xPk8vw?e=TVmIQs">Review Slides</a></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
