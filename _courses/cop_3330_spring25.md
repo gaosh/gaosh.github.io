@@ -19,7 +19,9 @@ importance: 2
 * 🏫 **Location**: [BEL 0180](https://map.concept3d.com/?id=1235#!ce/33184?m/345084?s/BEL%200180)
 * 🔍 **Office Hour**: Wednesday, 1:00 pm-3:00 pm (ET), 171 Love Building 
 * 🎒 **Format**: In-person only (unless there is a drastic change in the situation).
-* 💡 **Teaching Assistants**: TBD
+* 💡 **Teaching Assistants**: 
+    * Hannah Housand, **Office Hour**: Tuesday, 10 am-12 pm, **Location**: LOV006
+    * Christopher Draper, **Office Hour**: Thursday, 10 am-12 pm, **Location**: LOV006
 
 ## Course Overview
 This course focuses on preparing students for upper-division courses in computer science. As such, students are introduced to the object-oriented programming design model including encapsulation, abstraction, inheritance, and other common C++ language features used to create applications.  
@@ -75,8 +77,15 @@ Upon completion of the course, the student will:
       <td><a href="https://fsu-my.sharepoint.com/:b:/g/personal/sg24bi_fsu_edu/ET2XBV92B4xJsB24onV1aNsBtLs5YJjXjsWnBPz8xPk8vw?e=TVmIQs">Review Slides</a></td>
       <td></td>
     </tr>
+    <tr>
+      <td>Week 3 (Jan 20th to Jan 26th)</td>
+      <td>Class and Object 1</td>
+      <td></td>
+      <td>Class canceled on Wednesday (1/22) deu to extreme weather</td>
+    </tr>
   </tbody>
 </table>
+The link to in-class code examples will be updated <a href="">here</a>. 
 
 ## Course Assignments and Evaluation
 The final course grade consists of the following components:
