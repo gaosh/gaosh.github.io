@@ -79,9 +79,15 @@ Upon completion of the course, the student will:
     </tr>
     <tr>
       <td>Week 3 (Jan 20th to Jan 26th)</td>
+      <td>Class canceled on Wednesday and Friday (1/22 and 1/24) deu to extreme weather</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Week 4 (Jan 27th to Feb 2nd)</td>
       <td>Class and Object 1</td>
       <td></td>
-      <td>Class canceled on Wednesday (1/22) deu to extreme weather</td>
+      <td></td>
     </tr>
   </tbody>
 </table>
