@@ -91,7 +91,7 @@ Upon completion of the course, the student will:
     </tr>
   </tbody>
 </table>
-The link to in-class code examples will be updated <a href="">here</a>. 
+The link to in-class code examples will be updated <a href="https://drive.google.com/drive/folders/1hHEN0DKfvcA5su2qbE4VXrCdad-tXfEB?usp=sharing">here</a>. 
 
 ## Course Assignments and Evaluation
 The final course grade consists of the following components:
