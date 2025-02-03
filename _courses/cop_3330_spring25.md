@@ -87,7 +87,13 @@ Upon completion of the course, the student will:
       <td>Week 4 (Jan 27th to Feb 2nd)</td>
       <td>Class and Object 1</td>
       <td><a href="https://drive.google.com/file/d/1nELNQr0aYq1a5feh0wT_dEIp8zhbktpI/view?usp=sharing">Intro to OOP</a>; <a href="https://drive.google.com/file/d/1w-z_W_z2AylkWMzaaIE-3jPxvME2KxCD/view?usp=sharing">Class and Object 1</a></td>
-      <td></td>
+      <td>Reading: 6.1 (review), 6.2, 7.1; HW1 out</td>
+    </tr>
+    <tr>
+      <td>Week 5 (Feb 3rd to Feb 9th)</td>
+      <td>Class and Object 2</td>
+      <td>Mult-file comiplation; Class and Object 2</td>
+      <td>HW1 due</td>
     </tr>
   </tbody>
 </table>
