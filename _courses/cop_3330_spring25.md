@@ -92,7 +92,7 @@ Upon completion of the course, the student will:
     <tr>
       <td>Week 5 (Feb 3rd to Feb 9th)</td>
       <td>Class and Object 2</td>
-      <td>Mult-file comiplation; Class and Object 2</td>
+      <td><a href="https://drive.google.com/file/d/1Bgov80kJDQlzmom2Km0brDOBjCFhzV10/view?usp=sharing">Mult-file comiplation</a>; Class and Object 2</td>
       <td>HW1 due (Sunday, Feb. 9th)</td>
     </tr>
   </tbody>
