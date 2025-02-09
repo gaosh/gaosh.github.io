@@ -87,13 +87,19 @@ Upon completion of the course, the student will:
       <td>Week 4 (Jan 27th to Feb 2nd)</td>
       <td>Class and Object 1</td>
       <td><a href="https://drive.google.com/file/d/1nELNQr0aYq1a5feh0wT_dEIp8zhbktpI/view?usp=sharing">Intro to OOP</a>; <a href="https://drive.google.com/file/d/1w-z_W_z2AylkWMzaaIE-3jPxvME2KxCD/view?usp=sharing">Class and Object 1</a></td>
-      <td>Reading: 6.1 (review), 6.2, 7.1; HW1 out</td>
+      <td>Reading: Ch 6.1 (review), Ch 6.2, Ch 7.1; HW1 out</td>
     </tr>
     <tr>
       <td>Week 5 (Feb 3rd to Feb 9th)</td>
       <td>Class and Object 2</td>
       <td><a href="https://drive.google.com/file/d/1Bgov80kJDQlzmom2Km0brDOBjCFhzV10/view?usp=sharing">Mult-file comiplation</a>; <a href="https://drive.google.com/file/d/1YZrPgVE3LkiLIqz0NNIOPyCcS9P4cwAc/view?usp=sharing">Class and Object 2</a></td>
       <td>HW1 due (Sunday, Feb. 9th)</td>
+    </tr>
+    <tr>
+      <td>Week 6 (Feb 10th to Feb 16th)</td>
+      <td>Operator Overloading</td>
+      <td>Reading: Ch8</td>
+      <td>HW2 out</td>
     </tr>
   </tbody>
 </table>
