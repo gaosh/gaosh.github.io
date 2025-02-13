@@ -97,9 +97,9 @@ Upon completion of the course, the student will:
     </tr>
     <tr>
       <td>Week 6 (Feb 10th to Feb 16th)</td>
-      <td>Operator Overloading</td>
-      <td>Reading: Ch8</td>
-      <td>HW2 out</td>
+      <td><a href="https://drive.google.com/file/d/1lFFbmbbq3fW8pYOqJ8gS291-otmjD8zs/view?usp=sharing">Class and Object 2 (cont.)</a>; Operator Overloading</td>
+      <td></td>
+      <td>Reading: Ch8, HW2 out</td>
     </tr>
   </tbody>
 </table>
