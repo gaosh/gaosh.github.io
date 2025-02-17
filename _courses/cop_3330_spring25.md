@@ -101,6 +101,12 @@ Upon completion of the course, the student will:
       <td><a href="https://drive.google.com/file/d/1lFFbmbbq3fW8pYOqJ8gS291-otmjD8zs/view?usp=sharing">Class and Object 2 (cont.)</a></td>
       <td>Reading: Ch8, HW2 out</td>
     </tr>
+    <tr>
+      <td>Week 7 (Feb 17th to Feb 23th)</td>
+      <td>Operator Overloading, Composition</td>
+      <td><a href="https://drive.google.com/file/d/1ofdVfk4yVtZgIUaeB3aB1SeXiEL1r8wc/view?usp=sharing">Operator Overloading</a></td>
+      <td>Reading: Ch8, HW2 due (Sunday, Feb 23th)</td>
+    </tr>
   </tbody>
 </table>
 The link to in-class code examples will be updated <a href="https://drive.google.com/drive/folders/1hHEN0DKfvcA5su2qbE4VXrCdad-tXfEB?usp=sharing">here</a>. 
