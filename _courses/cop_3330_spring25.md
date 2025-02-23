@@ -104,8 +104,26 @@ Upon completion of the course, the student will:
     <tr>
       <td>Week 7 (Feb 17th to Feb 23th)</td>
       <td>Operator Overloading, Composition</td>
-      <td><a href="https://drive.google.com/file/d/1ofdVfk4yVtZgIUaeB3aB1SeXiEL1r8wc/view?usp=sharing">Operator Overloading</a></td>
+      <td><a href="https://drive.google.com/file/d/1ofdVfk4yVtZgIUaeB3aB1SeXiEL1r8wc/view?usp=sharing">Operator Overloading</a>; <a href="https://drive.google.com/file/d/163D9_IQf36vrzTJsERuJw5G6jBISewuF/view?usp=sharing">Composition</a></td>
       <td>Reading: Ch8, HW2 due (Sunday, Feb 23th)</td>
+    </tr>
+    <tr>
+      <td>Week 8 (Feb 24th to Mar 2ed)</td>
+      <td>Array and Vector, Dynamic Memory Allocation</td>
+      <td></td>
+      <td>HW3 out</td>
+    </tr>
+    <tr>
+      <td>Week 9 (Mar 3rd to Mar 9th)</td>
+      <td>Mid-Term</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Week 10 (Mar 10th to Mar 16th)</td>
+      <td>Spring Break</td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
