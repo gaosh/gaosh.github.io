@@ -110,7 +110,7 @@ Upon completion of the course, the student will:
     <tr>
       <td>Week 8 (Feb 24th to Mar 2ed)</td>
       <td>Array and Vector, Dynamic Memory Allocation</td>
-      <td><a href="https://drive.google.com/file/d/1W64xvauDecn-9pCOw-0aps1AxVXRPGlQ/view?usp=sharing">Array</a>;</td>
+      <td><a href="https://drive.google.com/file/d/1W64xvauDecn-9pCOw-0aps1AxVXRPGlQ/view?usp=sharing">Array</a>;<a href="https://drive.google.com/file/d/1Iy54yFSUY81ijy7PN9bKTlXs85kd6_hN/view?usp=sharing">Dynamic Memory</a></td>
       <td>HW3 out</td>
     </tr>
     <tr>
