@@ -116,12 +116,18 @@ Upon completion of the course, the student will:
     <tr>
       <td>Week 9 (Mar 3rd to Mar 9th)</td>
       <td>Class and Objects 3, Mid-Term</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1Vx85t_9KmIhMequxOWfOGy03SeosB6zV/view?usp=sharing">Class and Objects 3</a></td>
       <td></td>
     </tr>
     <tr>
       <td>Week 10 (Mar 10th to Mar 16th)</td>
       <td>Spring Break</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Week 11 (Mar 17th to Mar 23rd)</td>
+      <td>Class and Objects 3, Inheritance</td>
       <td></td>
       <td></td>
     </tr>
