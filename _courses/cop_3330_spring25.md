@@ -111,7 +111,7 @@ Upon completion of the course, the student will:
       <td>Week 8 (Feb 24th to Mar 2ed)</td>
       <td>Array and Vector, Dynamic Memory Allocation</td>
       <td><a href="https://drive.google.com/file/d/1W64xvauDecn-9pCOw-0aps1AxVXRPGlQ/view?usp=sharing">Array</a>; <a href="https://drive.google.com/file/d/1Iy54yFSUY81ijy7PN9bKTlXs85kd6_hN/view?usp=sharing">Dynamic Memory</a></td>
-      <td>HW3 out</td>
+      <td>Reading: Ch10; HW3 out</td>
     </tr>
     <tr>
       <td>Week 9 (Mar 3rd to Mar 9th)</td>
@@ -129,13 +129,13 @@ Upon completion of the course, the student will:
       <td>Week 11 (Mar 17th to Mar 23rd)</td>
       <td>Class and Objects 3, Inheritance</td>
       <td><a href="https://drive.google.com/file/d/1XpSBPmMG0PeFIOxLBmKAdD_07LdYmDs1/view?usp=sharing">Inheritance</a></td>
-      <td>HW4 out</td>
+      <td>Reading: Ch14; HW4 out</td>
     </tr>
     <tr>
       <td>Week 12 (Mar 24th to Mar 30th)</td>
       <td>Advanced Inheritance</td>
       <td></td>
-      <td></td>
+      <td>Reading: Ch15</td>
     </tr>
   </tbody>
 </table>
