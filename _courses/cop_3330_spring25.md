@@ -129,7 +129,7 @@ Upon completion of the course, the student will:
       <td>Week 11 (Mar 17th to Mar 23rd)</td>
       <td>Class and Objects 3, Inheritance</td>
       <td><a href="https://drive.google.com/file/d/1XpSBPmMG0PeFIOxLBmKAdD_07LdYmDs1/view?usp=sharing">Inheritance</a></td>
-      <td></td>
+      <td>HW4 out</td>
     </tr>
     <tr>
       <td>Week 12 (Mar 24th to Mar 30th)</td>
