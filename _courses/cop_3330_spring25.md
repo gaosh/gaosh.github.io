@@ -134,8 +134,14 @@ Upon completion of the course, the student will:
     <tr>
       <td>Week 12 (Mar 24th to Mar 30th)</td>
       <td>Advanced Inheritance</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1sr1E-4uAAEi05UA27u3SUZvcOgoYcWc8/view?usp=sharing">Advanced Inheritance</a></td>
       <td>Reading: Ch15</td>
+    </tr>
+    <tr>
+      <td>Week 13 (Mar 24th to Mar 30th)</td>
+      <td>Templates</td>
+      <td></td>
+      <td>HW4 due</td>
     </tr>
   </tbody>
 </table>
