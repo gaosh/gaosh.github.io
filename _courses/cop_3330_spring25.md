@@ -138,7 +138,7 @@ Upon completion of the course, the student will:
       <td>Reading: Ch15</td>
     </tr>
     <tr>
-      <td>Week 13 (Mar 24th to Mar 30th)</td>
+      <td>Week 13 (Mar 31st to Apr 6th)</td>
       <td>Templates</td>
       <td></td>
       <td>HW4 due</td>
