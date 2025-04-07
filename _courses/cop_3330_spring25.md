@@ -140,8 +140,14 @@ Upon completion of the course, the student will:
     <tr>
       <td>Week 13 (Mar 31st to Apr 6th)</td>
       <td>Templates</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1Wg-p34YjdTllGEGkJ-YCYgSfNPxMdkyf/view?usp=sharing">Templates</a></td>
       <td>HW4 due</td>
+    </tr>
+    <tr>
+      <td>Week 14 (Mar 31st to Apr 6th)</td>
+      <td>Stack</td>
+      <td></td>
+      <td>HW5 out</td>
     </tr>
   </tbody>
 </table>
