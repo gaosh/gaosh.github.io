@@ -144,7 +144,7 @@ Upon completion of the course, the student will:
       <td>HW4 due</td>
     </tr>
     <tr>
-      <td>Week 14 (Mar 31st to Apr 6th)</td>
+      <td>Week 14 (Apr 7th to Apr 13th)</td>
       <td>Stack</td>
       <td></td>
       <td>HW5 out</td>
