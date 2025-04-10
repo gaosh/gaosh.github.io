@@ -1,1 +1,0 @@
-I have accepted the inviation to serve as an Area Chair for NeurIPS 2025
