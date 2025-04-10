@@ -146,7 +146,7 @@ Upon completion of the course, the student will:
     <tr>
       <td>Week 14 (Apr 7th to Apr 13th)</td>
       <td>Stack</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1O0v9mCRnxQwMqUzEUHeZepdaqyy1OXX5/view?usp=sharing">Basics</a>; <a href="https://drive.google.com/file/d/1XXScpeWbKlPrUU31LiQ8x66tQtGApe8p/view?usp=sharing">Stack</a></td>
       <td>HW5 out</td>
     </tr>
   </tbody>
