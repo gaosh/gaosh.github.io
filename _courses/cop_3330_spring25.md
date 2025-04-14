@@ -149,6 +149,12 @@ Upon completion of the course, the student will:
       <td><a href="https://drive.google.com/file/d/1O0v9mCRnxQwMqUzEUHeZepdaqyy1OXX5/view?usp=sharing">Basics</a>; <a href="https://drive.google.com/file/d/1XXScpeWbKlPrUU31LiQ8x66tQtGApe8p/view?usp=sharing">Stack</a></td>
       <td>HW5 out</td>
     </tr>
+    <tr>
+      <td>Week 15 (Apr 7th to Apr 13th)</td>
+      <td>Queue, Linked Lists</td>
+      <td></td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
 The link to in-class code examples will be updated <a href="https://drive.google.com/drive/folders/1hHEN0DKfvcA5su2qbE4VXrCdad-tXfEB?usp=sharing">here</a>. 
