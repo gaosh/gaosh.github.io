@@ -152,14 +152,14 @@ Upon completion of the course, the student will:
     <tr>
       <td>Week 15 (Apr 7th to Apr 13th)</td>
       <td>Queue, Linked Lists</td>
-      <td><a href="https://drive.google.com/file/d/1hQv36E4aRLkjG0c4JRQmsyz5jKh69PoI/view?usp=sharing">Queue</td>
+      <td><a href="https://drive.google.com/file/d/1hQv36E4aRLkjG0c4JRQmsyz5jKh69PoI/view?usp=sharing">Queue</a></td>
       <td></td>
     </tr>
     <tr>
       <td>Week 16 (Apr 21st to Apr 27th)</td>
       <td>Linked Lists, Final Review</td>
       <td><a href="https://drive.google.com/file/d/19rW1f9XHxPpZqKZVOqNiSxXism1n1UeJ/view?usp=drive_link">Linked List</a></td>
-      <td></td>
+      <td>HW5 due</td>
     </tr>
   </tbody>
 </table>
