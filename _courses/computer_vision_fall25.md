@@ -7,7 +7,7 @@ layout: page
 # venue: "Florida State University"
 category: work
 img:
-description: Computer Vision - 2024 Fall
+description: Computer Vision - 2025 Fall
 # date: 2024-08-26
 # location: "Tallahassee, FL"
 importance: 1
@@ -17,11 +17,12 @@ importance: 1
 
 ## **Administrivia**
 * 📢 **Instructor**: [**Dr. Shangqian Gao**](https://gaosh.github.io/index.html) (sg24bi[at]fsu[dot]edu)
-* 📅 **Time**: Tuesday & Thursday, 4:50 pm-6:05 pm (ET)
-* 🏫 **Location**: [Classroom Building (HCB) 307](https://map.concept3d.com/?id=1235#!ce/33184?m/345264?s/classroom?mc/30.44730676902374,-84.29711900000001?z/16?lvl/0?share)
-* 🔍 **Office Hour**: Tuesday & Thursday, 2:50 pm-4:50 pm (ET)
+* 📅 **Time**: Tuesday & Thursday, 3:05 pm-4:20 pm (ET)
+* 🏫 **Location**: Bellamy Building (BEL) 0021
+* 🔍 **Office Hour**: Tuesday & Thursday, 4:30 pm-6:30 pm (ET)
 * 🎒 **Format**: In-person only (unless there is a drastic change in the situation).
-* 💡 **Teaching Assistants**: Ruoyu Li **TA Office Hour**: Tuesday, 9:30am-11:30am (ET) **TA Office**: Love 0025A (inside the Majors Lab)
+* 💡 **Teaching Assistants**: TBD
+<!-- Ruoyu Li **TA Office Hour**: Tuesday, 9:30am-11:30am (ET) **TA Office**: Love 0025A (inside the Majors Lab) -->
 
 ## Course Overview
 🚀 In this course, students will explore the field of modern computer vision. The curriculum is divided into two main sections: Low-level Vision and High-level Vision. Low-level Vision focuses on classical computer vision methods for extracting basic visual features, and High-level Vision covers more recent advances of computer vision by incoperating deep neural networks to perform complex tasks.
@@ -39,59 +40,38 @@ importance: 1
 ## Grading
 Grading
 Grading will be based on the following components:
-* **Homework Assignments (45%)** (3 assignments x 15% each = 45%)
+* **Homework Assignments (65%)** (15% + 15% + 15% + 20% = 65%)
 
-* **First Project (20%)**: The first project will be a from scratch implementation of deep neural networks using a language of your choice. No auto-differentiation package (like Pytorch, Tensorflow, etc.) is allowed to use for this project.
-
-* **Second Project (25%)**: The second project does not have a specific topic. A good project should either propose a new method for addressing an existing problem or apply techniques we've studied in class (or other relevant methods) to a new, unaddressed problem. A borderline project will simply reimplement existing works. Given the GPU-intensive nature of modern computer vision research, we have several options: 1. Department GPUs, 2. [**Amazon SageMaker Studio**](https://aws.amazon.com/sagemaker/studio/), 3. [**Google Colab**](https://colab.research.google.com/github/phlippe/uvadlc_notebooks/blob/master/docs/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.ipynb). 
+* **Second Project (25%)**: The second project does not have a specific topic. A good project should either propose a new method for addressing an existing problem or apply techniques we've studied in class (or other relevant methods) to a new, unaddressed problem. A borderline project will simply reimplement existing works. 
 
 Students are encouraged to work in groups of three for their final project. You are strongly encouraged to present a project proposal to the instructor during one office hours session. Please use visual aids (e.g., bring slides/figures/tables, and/or draw on the whiteboard during the conversation). The proposal discussion should take place within the first month of the course. This component is not graded. The final project contains two parts: 10% presentation + 15% project report.
 
 * **Participation and Quizs (10%)**
 
-* 🎁 **Extra Bonus**: (1) Projects with potentials to be submitted to [**major CV/ML conferences**](https://aideadlin.es/?sub=CV,ML) will get extra bonus. Please make an appointment with the instructor for a comprehensive evaluation of the research project for the extra bonus. Each project <u>under the instructor's recognition</u> will gain **<u>10 points</u>** on their final grades; (2) Students are highly encouraged to provide feedback on the development of this course. At the end of this semester, <u>a feedback survey completion rate exceeding 70%</u> will lead to an additional **<u>5 points</u>** for everyone enrolled in this class.
+* 🎁 **Extra Bonus**: (1) Projects with potentials to be submitted to [**major CV/ML conferences**](https://aideadlin.es/?sub=CV,ML) will get extra bonus. Please make an appointment with the instructor for a comprehensive evaluation of the research project for the extra bonus. Each project <u>under the instructor's recognition</u> will gain **<u>4 points</u>** on their final grades; (2) Students are highly encouraged to provide feedback on the development of this course. At the end of this semester, <u>a feedback survey completion rate exceeding 70%</u> will lead to an additional **<u>1 points</u>** for everyone enrolled in this class.
 
 
 
 ## Schedule
-
-<!-- |       Date        |             Topic             |  Materials   |      Notes       |
-| :---------------: | :---------------------------: | :----------: | :--------------: |
-|   8.27 (Tuesday)   |          Introduction       |              |                  |
-| 8.29 (Thursday)  |            ^                  |              |                  |
-|   9.3 (Tuesday)    |          ^          |           |         |
-|  9.5 (Thursday)  |           Filtering and texture            |              |                  |
-| 9.10 (Tuesday) | ^| | |
-|   9.12 (Thursday)   |    ^                          |              |                  |
-| 9.17 (Tuesday) |              Feature detection and description                 |              |                  |
-|   9.19 (Thursday)   |             ^                  |              |                  |
-| 9.24 (Tuesday) |        ^           |              |                  |
-|   9.26 (Thursday)   |            Edges, lines, circles and segment             |              |                  |
-| 9.31 (Tuesday) |          ^           |              |                  |
-|   10.3 (Thursday)   |             Multiple views                 |              |                  |
-| 10.8 (Tuesday) |              ^                 |              |                  |
-|   10.10 (Thursday)   |                Intro to recognition                 |              |                  |
-| 10.15 (Tuesday) |                ^               |              |                  |
-| 10.17 (Thursday) |            ^                   |              |                  |
-| 10.22 (Tuesday) |                 Pytorch and Googel Colab Tutorial              |              |                  |
-| 10.24 (Thursday) |                  Convolutional neural networks              |              |                  |
-| 10.29 (Tuesday) |          ^                    |              |                  |
-| 10.31 (Thursday) |                 ^               |              |                  |
-| 11.5 (Tuesday) |               Object recognition, detection, segmentation                |              |                  |
-|   11.7 (Thursday)   |              ^                 |              |                  |
-| 11.12 (Tuesday) |                  Vision and language, video and motion       |        |        |
-| 11.14 (Thursday) |            ^                  |              |                  |
-| 11.19 (Tuesday) |                ^              |              |                  |
-| 11.21 (Thursday) |               Unsupervised learning               |              |                  |
-| 11.26 (Tuesday) |    Self-supervised and reinforcement learning for vision   |              |                  |
-| 11.28 (Thursday) |              N/A              |     N/A      |   🏖️ No class.     |
-| 12.3 (Tuesday) |   ^     |              |                  |
-|   12.5 (Thursday)   |   **Project Presentation**   |              |                  |
-|   12.10 (Tuesday)   |   **Project Presentation**    |              |                  |
-| 12.14 (Thursday) |    **Project Presentation**       |              |                  |
-| 12.15 (Friday)     | 🚨 Project DDL at 23:59 PM (AoE) |     N/A      | Not a class day. | -->
-
 <table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Topic</th>
+      <th>Materials</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Week 1</td>
+      <td>Introduction</td>
+      <td>Introduction Slides</a></td>
+      <td></td>
+    </tr>
+</table>
+
+<!-- <table>
   <thead>
     <tr>
       <th>Date</th>
@@ -257,7 +237,7 @@ Students are encouraged to work in groups of three for their final project. You 
       <td>Not a class day.</td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 
 
