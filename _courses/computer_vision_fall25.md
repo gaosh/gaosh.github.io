@@ -19,7 +19,7 @@ importance: 1
 * 📢 **Instructor**: [**Dr. Shangqian Gao**](https://gaosh.github.io/index.html) (sg24bi[at]fsu[dot]edu)
 * 📅 **Time**: Tuesday & Thursday, 3:05 pm-4:20 pm (ET)
 * 🏫 **Location**: Bellamy Building (BEL) 0021
-* 🔍 **Office Hour**: Tuesday & Thursday, 4:30 pm-6:30 pm (ET)
+* 🔍 **Office Hour**: Thursday, 4:30 pm-6:30 pm (ET)
 * 🎒 **Format**: In-person only (unless there is a drastic change in the situation).
 * 💡 **Teaching Assistants**: TBD
 <!-- Ruoyu Li **TA Office Hour**: Tuesday, 9:30am-11:30am (ET) **TA Office**: Love 0025A (inside the Majors Lab) -->
@@ -48,7 +48,7 @@ Students are encouraged to work in groups of three for their final project. You 
 
 * **Participation and Quizs (10%)**
 
-* 🎁 **Extra Bonus**: (1) Projects with potentials to be submitted to [**major CV/ML conferences**](https://aideadlin.es/?sub=CV,ML) will get extra bonus. Please make an appointment with the instructor for a comprehensive evaluation of the research project for the extra bonus. Each project <u>under the instructor's recognition</u> will gain **<u>4 points</u>** on their final grades; (2) Students are highly encouraged to provide feedback on the development of this course. At the end of this semester, <u>a feedback survey completion rate exceeding 70%</u> will lead to an additional **<u>1 points</u>** for everyone enrolled in this class.
+* 🎁 **Extra Bonus**: (1) Homework Assignment 4 includes an extra bonus of <u>2 points</u> for reaching the specified accuracy threshold. (2) Projects with potentials to be submitted to [**major CV/ML conferences**](https://aideadlin.es/?sub=CV,ML) will get extra bonus. Please make an appointment with the instructor for a comprehensive evaluation of the research project for the extra bonus. Each project <u>under the instructor's recognition</u> will gain **<u>1 points</u>** on their final grades; (3) Students are highly encouraged to provide feedback on the development of this course. At the end of this semester, <u>a feedback survey completion rate exceeding 70%</u> will lead to an additional **<u>2 points</u>** for everyone enrolled in this class.
 
 
 
@@ -67,7 +67,7 @@ Students are encouraged to work in groups of three for their final project. You 
       <td>Week 1</td>
       <td>Introduction</td>
       <td><a href="#">Introduction Slides</a></td>
-      <td></td>
+      <td>Readings: Szeliski Sec. 1.1, 1.2</td>
     </tr>
   </tbody>
 </table>
