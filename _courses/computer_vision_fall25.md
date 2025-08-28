@@ -66,7 +66,7 @@ Students are encouraged to work in groups of three for their final project. You 
     <tr>
       <td>Week 1</td>
       <td>Introduction</td>
-      <td><a href="#">Introduction Slides</a></td>
+      <td><a href="https://docs.google.com/presentation/d/1Lu30ayKOq7s_RzGVj1syGwH2oarD4Tke/edit?usp=sharing&ouid=118238035852217006141&rtpof=true&sd=true">Introduction Slides</a></td>
       <td>Readings: Szeliski Sec. 1.1, 1.2</td>
     </tr>
   </tbody>
