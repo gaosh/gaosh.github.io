@@ -21,7 +21,7 @@ importance: 1
 * 🏫 **Location**: Bellamy Building (BEL) 0021
 * 🔍 **Office Hour**: Thursday, 4:30 pm-6:30 pm (ET)
 * 🎒 **Format**: In-person only (unless there is a drastic change in the situation).
-* 💡 **Teaching Assistants**: TBD
+* 💡 **Teaching Assistants**: Zhankai (Jackie) Ye (zy22b[at]fsu[dot]edu) **TA Office Hour**: Tuesday, 4:30pm-5:30pm (ET) **TA Office**: Love 251 
 <!-- Ruoyu Li **TA Office Hour**: Tuesday, 9:30am-11:30am (ET) **TA Office**: Love 0025A (inside the Majors Lab) -->
 
 ## Course Overview
@@ -66,8 +66,14 @@ Students are encouraged to work in groups of three for their final project. You 
     <tr>
       <td>Week 1</td>
       <td>Introduction</td>
-      <td><a href="https://docs.google.com/presentation/d/1Lu30ayKOq7s_RzGVj1syGwH2oarD4Tke/edit?usp=sharing&ouid=118238035852217006141&rtpof=true&sd=true">Introduction Slides</a></td>
+      <td><a href="https://docs.google.com/presentation/d/1Lu30ayKOq7s_RzGVj1syGwH2oarD4Tke/edit?usp=sharing&ouid=118238035852217006141&rtpof=true&sd=true">Introduction Slides</a> <a href="https://cs.brown.edu/courses/cs143/2011/docs/matlab-tutorial/">Matlab tutorial</a></td>
       <td>Readings: Szeliski Sec. 1.1, 1.2</td>
+    </tr>
+    <tr>
+      <td>Week 2</td>
+      <td>Filtering and texture</td>
+      <td><a href="">Slides</a></td>
+      <td>Readings: Szeliski Sec. 3.1-3.3</td>
     </tr>
   </tbody>
 </table>
