@@ -72,8 +72,14 @@ Students are encouraged to work in groups of three for their final project. You 
     <tr>
       <td>Week 2</td>
       <td>Filtering and texture</td>
-      <td><a href="">Slides</a></td>
+      <td><a href="https://drive.google.com/file/d/1xJW69TTR29i7a7fYX2JTZtkMAxjyrpeY/view?usp=sharing">Slides</a></td>
       <td>Readings: Szeliski Sec. 3.1-3.3</td>
+    </tr>
+    <tr>
+      <td>Week 3</td>
+      <td>Filtering and texture (Continued)</td>
+      <td><a href="">Demo Code</a></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
