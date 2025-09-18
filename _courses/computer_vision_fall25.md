@@ -78,8 +78,14 @@ Students are encouraged to work in groups of three for their final project. You 
     <tr>
       <td>Week 3</td>
       <td>Filtering and texture (Continued)</td>
-      <td><a href="">Demo Code</a></td>
+      <td><a href="https://drive.google.com/file/d/1JnhS8ZnEBV5WG_LLaFVD0h-iaDqFzQv9/view?usp=sharing">Demo Code</a></td>
       <td></td>
+    </tr>
+    <tr>
+      <td>Week 4</td>
+      <td>Feature detection and description</td>
+      <td><a href="https://drive.google.com/file/d/1ROFXQiZ_MIV5OmJ0TpeVa0kgJIW19fJe/view?usp=sharing">Slides</a></td>
+      <td>Readings: Szeliski 7.1</td>
     </tr>
   </tbody>
 </table>
