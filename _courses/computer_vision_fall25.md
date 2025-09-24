@@ -21,7 +21,7 @@ importance: 1
 * 🏫 **Location**: Bellamy Building (BEL) 0021
 * 🔍 **Office Hour**: Thursday, 4:30 pm-6:30 pm (ET)
 * 🎒 **Format**: In-person only (unless there is a drastic change in the situation).
-* 💡 **Teaching Assistants**: Zhankai (Jackie) Ye (zy22b[at]fsu[dot]edu) **TA Office Hour**: Tuesday, 4:30pm-5:30pm (ET) **TA Office**: Love 251 
+* 💡 **Teaching Assistants**: Zhankai (Jackie) Ye (zy22b[at]fsu[dot]edu) **TA Office Hour**: Friday, 1:30pm-2:30pm (ET) **TA Office**: Love 251 
 <!-- Ruoyu Li **TA Office Hour**: Tuesday, 9:30am-11:30am (ET) **TA Office**: Love 0025A (inside the Majors Lab) -->
 
 ## Course Overview
