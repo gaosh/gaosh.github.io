@@ -90,7 +90,7 @@ Students are encouraged to work in groups of three for their final project. You 
     <tr>
       <td>Week 5</td>
       <td>Grouping: edges, lines, circles, segments</td>
-      <td><a href="">Slides</a></td>
+      <td><a href="https://drive.google.com/file/d/1VBAmMie928K5oe2sTRHW0371F6k-tXT4/view?usp=sharing">Slides</a></td>
       <td>Readings: Szeliski Sec. 5.2.1, 5.2.2, 7.2, 7.5, 7.4.2</td>
     </tr>
   </tbody>
