@@ -42,7 +42,7 @@ Grading
 Grading will be based on the following components:
 * **Homework Assignments (65%)** (15% + 15% + 15% + 20% = 65%)
 
-* **Second Project (25%)**: The second project does not have a specific topic. A good project should either propose a new method for addressing an existing problem or apply techniques we've studied in class (or other relevant methods) to a new, unaddressed problem. A borderline project will simply reimplement existing works. 
+* **Final Project (25%)**: The final project does not have a specific topic. A good project should either propose a new method for addressing an existing problem or apply techniques we've studied in class (or other relevant methods) to a new, unaddressed problem. A borderline project will simply reimplement existing works. 
 
 Students are encouraged to work in groups of three for their final project. You are strongly encouraged to present a project proposal to the instructor during one office hours session. Please use visual aids (e.g., bring slides/figures/tables, and/or draw on the whiteboard during the conversation). The proposal discussion should take place within the first month of the course. This component is not graded. The final project contains two parts: 10% presentation + 15% project report.
 
