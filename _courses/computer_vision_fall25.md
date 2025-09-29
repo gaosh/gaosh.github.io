@@ -93,6 +93,30 @@ Students are encouraged to work in groups of three for their final project. You 
       <td><a href="https://drive.google.com/file/d/1VBAmMie928K5oe2sTRHW0371F6k-tXT4/view?usp=sharing">Slides</a></td>
       <td>Readings: Szeliski Sec. 5.2.1, 5.2.2, 7.2, 7.5, 7.4.2</td>
     </tr>
+    <tr>
+      <td>Week 6</td>
+      <td>Visual Recognition</td>
+      <td><a href="">Slides</a></td>
+      <td>Readings: Szeliski Sec. 5.1, 6.1, 6.2, Optional:<a href="">Transformations</a> </td>
+    </tr>
+    <tr>
+      <td>Week 13</td>
+      <td>Project Presentation</td>
+      <td></td>
+      <td>Nov. 18 and Nov. 20</td>
+    </tr>
+    <tr>
+      <td>Week 14</td>
+      <td>Project Presentation</td>
+      <td></td>
+      <td>Nov. 25, Thanksgiving</td>
+    </tr>
+    <tr>
+      <td>Week 15</td>
+      <td>Project Presentation</td>
+      <td></td>
+      <td>Dec. 2 and Dec. 4</td>
+    </tr>
   </tbody>
 </table>
 
