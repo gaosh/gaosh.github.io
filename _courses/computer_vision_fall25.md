@@ -100,7 +100,6 @@ Students are encouraged to work in groups of three for their final project. You 
       <td>Readings: Szeliski Sec. 5.1, 6.1, 6.2, Optional:<a href="https://drive.google.com/file/d/19YJyfiHa8Jvj2MAOwsWpQ52-c-XR_7UB/view?usp=drive_link">Transformations</a> </td>
     </tr>
     <tr>
-    <tr>
       <td>Week 7</td>
       <td>Convolutional Neural Networks</td>
       <td><a href="">Slides</a></td>
