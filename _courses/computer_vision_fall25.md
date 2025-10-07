@@ -104,7 +104,7 @@ Students are encouraged to work in groups of three for their final project. You 
       <td>Week 7</td>
       <td>Convolutional Neural Networks</td>
       <td><a href="">Slides</a></td>
-      <td>Readings: Goodfellow Sec. 4.2, 4.3, Ch. 6 </td>
+      <td>Readings: Goodfellow Sec. 4.2, 4.3, Ch. 6</td>
     </tr>
     <tr>
       <td>Week 13</td>
