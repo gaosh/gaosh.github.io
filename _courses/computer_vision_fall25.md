@@ -106,6 +106,12 @@ Students are encouraged to work in groups of three for their final project. You 
       <td>Readings: Goodfellow Sec. 4.2, 4.3, Ch. 6</td>
     </tr>
     <tr>
+      <td>Week 8</td>
+      <td>Convolutional Neural Networks (continued) and Introduction to PyTorch and Google Colab</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Week 13</td>
       <td>Project Presentation</td>
       <td></td>
