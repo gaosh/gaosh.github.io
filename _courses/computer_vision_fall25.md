@@ -112,6 +112,12 @@ Students are encouraged to work in groups of three for their final project. You 
       <td></td>
     </tr>
     <tr>
+      <td>Week 9</td>
+      <td>Convolutional Neural Networks (continued)</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Week 13</td>
       <td>Project Presentation</td>
       <td></td>
