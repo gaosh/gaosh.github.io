@@ -118,6 +118,13 @@ Students are encouraged to work in groups of three for their final project. You 
       <td></td>
     </tr>
     <tr>
+    <tr>
+      <td>Week 10</td>
+      <td>Object recognition, detection, segmentation</td>
+      <td><a href="https://drive.google.com/file/d/1bzaCKXqSNnolhv1twK7F21ekWFSg_1hj/view?usp=drive_link">Slides</a></td>
+      <td>Readings: Szeliski Sec. 6.3, 6.4</td>
+    </tr>
+    <tr>
       <td>Week 13</td>
       <td>Project Presentation</td>
       <td></td>
