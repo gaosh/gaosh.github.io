@@ -118,7 +118,6 @@ Students are encouraged to work in groups of three for their final project. You 
       <td></td>
     </tr>
     <tr>
-    <tr>
       <td>Week 10</td>
       <td>Object recognition, detection, segmentation</td>
       <td><a href="https://drive.google.com/file/d/1-xBisWTVGT9a5j5lozW6yEqohwhrYAjf/view?usp=sharing">Slides</a></td>
