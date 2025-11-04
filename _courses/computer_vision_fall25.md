@@ -124,6 +124,12 @@ Students are encouraged to work in groups of three for their final project. You 
       <td>Readings: Szeliski Sec. 6.3, 6.4</td>
     </tr>
     <tr>
+      <td>Week 11</td>
+      <td>Vision and language, video and motion</td>
+      <td><a href="">Slides</a></td>
+      <td>Readings: Szeliski Sec. 5.5.1, 5.5.2, 6.5, 6.6</td>
+    </tr>
+    <tr>
       <td>Week 13</td>
       <td>Project Presentation</td>
       <td></td>
