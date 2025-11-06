@@ -126,7 +126,7 @@ Students are encouraged to work in groups of three for their final project. You 
     <tr>
       <td>Week 11</td>
       <td>Vision and language, video and motion</td>
-      <td><a href="">Slides</a></td>
+      <td><a href="https://drive.google.com/file/d/1SBHfu7248b7ivREH9_OviHk26iheLBfs/view?usp=sharing">Slides</a></td>
       <td>Readings: Szeliski Sec. 5.5.1, 5.5.2, 6.5, 6.6</td>
     </tr>
     <tr>
