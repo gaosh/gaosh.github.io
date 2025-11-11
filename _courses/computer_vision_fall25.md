@@ -130,7 +130,6 @@ Students are encouraged to work in groups of three for their final project. You 
       <td>Readings: Szeliski Sec. 5.5.1, 5.5.2, 6.5, 6.6</td>
     </tr>
     <tr>
-    <tr>
       <td>Week 12</td>
       <td>Unsupervised Learning</td>
       <td><a href="">Slides</a></td>
