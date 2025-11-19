@@ -132,7 +132,7 @@ Students are encouraged to work in groups of three for their final project. You 
     <tr>
       <td>Week 12</td>
       <td>Unsupervised Learning</td>
-      <td><a href="">Slides</a></td>
+      <td><a href="https://drive.google.com/file/d/1QI7L_jiUcc2FFdr5xt3bYyjwKkie7FNu/view?usp=sharing">Slides</a></td>
       <td>Readings: Szeliski Sec. 5.5.4. No Class on Nov. 11 (Veterans Day)</td>
     </tr>
     <tr>
