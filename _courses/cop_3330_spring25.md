@@ -7,7 +7,7 @@ layout: page
 # venue: "Florida State University"
 category: work
 img:
-description:  Data Structures, Algorithms, and Generic Programming I (a.k.a. Object-Oriented Programming) Spring 2025
+description:  Data Structures, Algorithms, and Generic Programming I (a.k.a. Object-Oriented Programming) 2026 Spring
 # date: 2024-08-26
 # location: "Tallahassee, FL"
 importance: 2
@@ -15,13 +15,13 @@ importance: 2
 
 ## **Administrivia**
 * 📢 **Instructor**: [**Dr. Shangqian Gao**](https://gaosh.github.io/index.html) (sg24bi[at]fsu[dot]edu)
-* 📅 **Time**:  MoWeFr, 9:20 am-10:10 am (ET)
-* 🏫 **Location**: [BEL 0180](https://map.concept3d.com/?id=1235#!ce/33184?m/345084?s/BEL%200180)
-* 🔍 **Office Hour**: Wednesday, 1:00 pm-3:00 pm (ET), 171 Love Building 
+* 📅 **Time**:  MoWe, 4:50 pm-6:10 pm (ET)
+* 🏫 **Location**: 
+* 🔍 **Office Hour**: TBD
 * 🎒 **Format**: In-person only (unless there is a drastic change in the situation).
-* 💡 **Teaching Assistants**: 
-    * Hannah Housand, **Office Hour**: Tuesday, 10 am-12 pm, **Location**: LOV006
-    * Christopher Draper, **Office Hour**: Thursday, 10 am-12 pm, **Location**: LOV006
+* 💡 **Teaching Assistants**: TBD
+    <!-- * Hannah Housand, **Office Hour**: Tuesday, 10 am-12 pm, **Location**: LOV006
+    * Christopher Draper, **Office Hour**: Thursday, 10 am-12 pm, **Location**: LOV006 -->
 
 ## Course Overview
 This course focuses on preparing students for upper-division courses in computer science. As such, students are introduced to the object-oriented programming design model including encapsulation, abstraction, inheritance, and other common C++ language features used to create applications.  
@@ -55,7 +55,8 @@ Upon completion of the course, the student will:
     * [UNIX Tutorial for Beginners](https://www.cs.fsu.edu/~myers/howto/UnixTutorial.txt)
 
 ## Course schedule
-<table>
+To be updated.
+<!-- <table>
   <thead>
     <tr>
       <th>Date</th>
@@ -163,7 +164,7 @@ Upon completion of the course, the student will:
     </tr>
   </tbody>
 </table>
-The link to in-class code examples will be updated <a href="https://drive.google.com/drive/folders/1hHEN0DKfvcA5su2qbE4VXrCdad-tXfEB?usp=sharing">here</a>. 
+The link to in-class code examples will be updated <a href="https://drive.google.com/drive/folders/1hHEN0DKfvcA5su2qbE4VXrCdad-tXfEB?usp=sharing">here</a>.  -->
 
 ## Course Assignments and Evaluation
 The final course grade consists of the following components:
