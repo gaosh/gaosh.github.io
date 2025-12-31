@@ -7,7 +7,7 @@ layout: page
 # venue: "Florida State University"
 category: work
 img:
-description: Computer Vision - 2024 Fall
+description: Computer Vision - 2025 Fall
 # date: 2024-08-26
 # location: "Tallahassee, FL"
 importance: 1
@@ -17,11 +17,12 @@ importance: 1
 
 ## **Administrivia**
 * 📢 **Instructor**: [**Dr. Shangqian Gao**](https://gaosh.github.io/index.html) (sg24bi[at]fsu[dot]edu)
-* 📅 **Time**: Tuesday & Thursday, 4:50 pm-6:05 pm (ET)
-* 🏫 **Location**: [Classroom Building (HCB) 307](https://map.concept3d.com/?id=1235#!ce/33184?m/345264?s/classroom?mc/30.44730676902374,-84.29711900000001?z/16?lvl/0?share)
-* 🔍 **Office Hour**: Tuesday & Thursday, 2:50 pm-4:50 pm (ET)
+* 📅 **Time**: Tuesday & Thursday, 3:05 pm-4:20 pm (ET)
+* 🏫 **Location**: Bellamy Building (BEL) 0021
+* 🔍 **Office Hour**: Thursday, 4:30 pm-6:30 pm (ET)
 * 🎒 **Format**: In-person only (unless there is a drastic change in the situation).
-* 💡 **Teaching Assistants**: Ruoyu Li **TA Office Hour**: Tuesday, 9:30am-11:30am (ET) **TA Office**: Love 0025A (inside the Majors Lab)
+* 💡 **Teaching Assistants**: Zhankai (Jackie) Ye (zy22b[at]fsu[dot]edu) **TA Office Hour**: Friday, 1:30pm-2:30pm (ET) **TA Office**: Love 251 
+<!-- Ruoyu Li **TA Office Hour**: Tuesday, 9:30am-11:30am (ET) **TA Office**: Love 0025A (inside the Majors Lab) -->
 
 ## Course Overview
 🚀 In this course, students will explore the field of modern computer vision. The curriculum is divided into two main sections: Low-level Vision and High-level Vision. Low-level Vision focuses on classical computer vision methods for extracting basic visual features, and High-level Vision covers more recent advances of computer vision by incoperating deep neural networks to perform complex tasks.
@@ -39,59 +40,123 @@ importance: 1
 ## Grading
 Grading
 Grading will be based on the following components:
-* **Homework Assignments (45%)** (3 assignments x 15% each = 45%)
+* **Homework Assignments (65%)** (15% + 15% + 15% + 20% = 65%)
 
-* **First Project (20%)**: The first project will be a from scratch implementation of deep neural networks using a language of your choice. No auto-differentiation package (like Pytorch, Tensorflow, etc.) is allowed to use for this project.
-
-* **Second Project (25%)**: The second project does not have a specific topic. A good project should either propose a new method for addressing an existing problem or apply techniques we've studied in class (or other relevant methods) to a new, unaddressed problem. A borderline project will simply reimplement existing works. Given the GPU-intensive nature of modern computer vision research, we have several options: 1. Department GPUs, 2. [**Amazon SageMaker Studio**](https://aws.amazon.com/sagemaker/studio/), 3. [**Google Colab**](https://colab.research.google.com/github/phlippe/uvadlc_notebooks/blob/master/docs/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.ipynb). 
+* **Final Project (25%)**: The final project does not have a specific topic. A good project should either propose a new method for addressing an existing problem or apply techniques we've studied in class (or other relevant methods) to a new, unaddressed problem. A borderline project will simply reimplement existing works. 
 
 Students are encouraged to work in groups of three for their final project. You are strongly encouraged to present a project proposal to the instructor during one office hours session. Please use visual aids (e.g., bring slides/figures/tables, and/or draw on the whiteboard during the conversation). The proposal discussion should take place within the first month of the course. This component is not graded. The final project contains two parts: 10% presentation + 15% project report.
 
 * **Participation and Quizs (10%)**
 
-* 🎁 **Extra Bonus**: (1) Projects with potentials to be submitted to [**major CV/ML conferences**](https://aideadlin.es/?sub=CV,ML) will get extra bonus. Please make an appointment with the instructor for a comprehensive evaluation of the research project for the extra bonus. Each project <u>under the instructor's recognition</u> will gain **<u>10 points</u>** on their final grades; (2) Students are highly encouraged to provide feedback on the development of this course. At the end of this semester, <u>a feedback survey completion rate exceeding 70%</u> will lead to an additional **<u>5 points</u>** for everyone enrolled in this class.
+* 🎁 **Extra Bonus**: (1) Homework Assignment 4 includes an extra bonus of <u>2 points</u> for reaching the specified accuracy threshold. (2) Projects with potentials to be submitted to [**major CV/ML conferences**](https://aideadlin.es/?sub=CV,ML) will get extra bonus. Please make an appointment with the instructor for a comprehensive evaluation of the research project for the extra bonus. Each project <u>under the instructor's recognition</u> will gain **<u>1 points</u>** on their final grades; (3) Students are highly encouraged to provide feedback on the development of this course. At the end of this semester, <u>a feedback survey completion rate exceeding 70%</u> will lead to an additional **<u>2 points</u>** for everyone enrolled in this class.
 
 
 
 ## Schedule
-
-<!-- |       Date        |             Topic             |  Materials   |      Notes       |
-| :---------------: | :---------------------------: | :----------: | :--------------: |
-|   8.27 (Tuesday)   |          Introduction       |              |                  |
-| 8.29 (Thursday)  |            ^                  |              |                  |
-|   9.3 (Tuesday)    |          ^          |           |         |
-|  9.5 (Thursday)  |           Filtering and texture            |              |                  |
-| 9.10 (Tuesday) | ^| | |
-|   9.12 (Thursday)   |    ^                          |              |                  |
-| 9.17 (Tuesday) |              Feature detection and description                 |              |                  |
-|   9.19 (Thursday)   |             ^                  |              |                  |
-| 9.24 (Tuesday) |        ^           |              |                  |
-|   9.26 (Thursday)   |            Edges, lines, circles and segment             |              |                  |
-| 9.31 (Tuesday) |          ^           |              |                  |
-|   10.3 (Thursday)   |             Multiple views                 |              |                  |
-| 10.8 (Tuesday) |              ^                 |              |                  |
-|   10.10 (Thursday)   |                Intro to recognition                 |              |                  |
-| 10.15 (Tuesday) |                ^               |              |                  |
-| 10.17 (Thursday) |            ^                   |              |                  |
-| 10.22 (Tuesday) |                 Pytorch and Googel Colab Tutorial              |              |                  |
-| 10.24 (Thursday) |                  Convolutional neural networks              |              |                  |
-| 10.29 (Tuesday) |          ^                    |              |                  |
-| 10.31 (Thursday) |                 ^               |              |                  |
-| 11.5 (Tuesday) |               Object recognition, detection, segmentation                |              |                  |
-|   11.7 (Thursday)   |              ^                 |              |                  |
-| 11.12 (Tuesday) |                  Vision and language, video and motion       |        |        |
-| 11.14 (Thursday) |            ^                  |              |                  |
-| 11.19 (Tuesday) |                ^              |              |                  |
-| 11.21 (Thursday) |               Unsupervised learning               |              |                  |
-| 11.26 (Tuesday) |    Self-supervised and reinforcement learning for vision   |              |                  |
-| 11.28 (Thursday) |              N/A              |     N/A      |   🏖️ No class.     |
-| 12.3 (Tuesday) |   ^     |              |                  |
-|   12.5 (Thursday)   |   **Project Presentation**   |              |                  |
-|   12.10 (Tuesday)   |   **Project Presentation**    |              |                  |
-| 12.14 (Thursday) |    **Project Presentation**       |              |                  |
-| 12.15 (Friday)     | 🚨 Project DDL at 23:59 PM (AoE) |     N/A      | Not a class day. | -->
-
 <table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Topic</th>
+      <th>Materials</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Week 1</td>
+      <td>Introduction</td>
+      <td><a href="https://docs.google.com/presentation/d/1Lu30ayKOq7s_RzGVj1syGwH2oarD4Tke/edit?usp=sharing&ouid=118238035852217006141&rtpof=true&sd=true">Introduction Slides</a> <a href="https://cs.brown.edu/courses/cs143/2011/docs/matlab-tutorial/">Matlab tutorial</a></td>
+      <td>Readings: Szeliski Sec. 1.1, 1.2</td>
+    </tr>
+    <tr>
+      <td>Week 2</td>
+      <td>Filtering and texture</td>
+      <td><a href="https://drive.google.com/file/d/1xJW69TTR29i7a7fYX2JTZtkMAxjyrpeY/view?usp=sharing">Slides</a></td>
+      <td>Readings: Szeliski Sec. 3.1-3.3</td>
+    </tr>
+    <tr>
+      <td>Week 3</td>
+      <td>Filtering and texture (Continued)</td>
+      <td><a href="https://drive.google.com/file/d/1JnhS8ZnEBV5WG_LLaFVD0h-iaDqFzQv9/view?usp=sharing">Demo Code</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Week 4</td>
+      <td>Feature detection and description</td>
+      <td><a href="https://drive.google.com/file/d/1ROFXQiZ_MIV5OmJ0TpeVa0kgJIW19fJe/view?usp=sharing">Slides</a></td>
+      <td>Readings: Szeliski 7.1</td>
+    </tr>
+    <tr>
+      <td>Week 5</td>
+      <td>Grouping: edges, lines, circles, segments</td>
+      <td><a href="https://drive.google.com/file/d/1VBAmMie928K5oe2sTRHW0371F6k-tXT4/view?usp=sharing">Slides</a></td>
+      <td>Readings: Szeliski Sec. 5.2.1, 5.2.2, 7.2, 7.5, 7.4.2</td>
+    </tr>
+    <tr>
+      <td>Week 6</td>
+      <td>Visual Recognition</td>
+      <td><a href="https://drive.google.com/file/d/1lGy9MsobZHwUD-T3-EThxwv4fZIUejGn/view?usp=sharing">Slides</a></td>
+      <td>Readings: Szeliski Sec. 5.1, 6.1, 6.2, Optional:<a href="https://drive.google.com/file/d/19YJyfiHa8Jvj2MAOwsWpQ52-c-XR_7UB/view?usp=drive_link">Transformations</a> </td>
+    </tr>
+    <tr>
+      <td>Week 7</td>
+      <td>Convolutional Neural Networks</td>
+      <td><a href="https://drive.google.com/file/d/1jDbSubWa7U63im0PcDDoRlmDvFYgty4M/view?usp=sharing">Slides</a></td>
+      <td>Readings: Goodfellow Sec. 4.2, 4.3, Ch. 6</td>
+    </tr>
+    <tr>
+      <td>Week 8</td>
+      <td>Convolutional Neural Networks (continued) and Introduction to PyTorch and Google Colab</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Week 9</td>
+      <td>Convolutional Neural Networks (continued)</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Week 10</td>
+      <td>Object recognition, detection, segmentation</td>
+      <td><a href="https://drive.google.com/file/d/1-xBisWTVGT9a5j5lozW6yEqohwhrYAjf/view?usp=sharing">Slides</a></td>
+      <td>Readings: Szeliski Sec. 6.3, 6.4</td>
+    </tr>
+    <tr>
+      <td>Week 11</td>
+      <td>Vision and language, video and motion</td>
+      <td><a href="https://drive.google.com/file/d/1SBHfu7248b7ivREH9_OviHk26iheLBfs/view?usp=sharing">Slides</a></td>
+      <td>Readings: Szeliski Sec. 5.5.1, 5.5.2, 6.5, 6.6</td>
+    </tr>
+    <tr>
+      <td>Week 12</td>
+      <td>Unsupervised Learning</td>
+      <td><a href="https://drive.google.com/file/d/1QI7L_jiUcc2FFdr5xt3bYyjwKkie7FNu/view?usp=sharing">Slides</a></td>
+      <td>Readings: Szeliski Sec. 5.5.4. No Class on Nov. 11 (Veterans Day)</td>
+    </tr>
+    <tr>
+      <td>Week 13</td>
+      <td>Project Presentation</td>
+      <td></td>
+      <td>Nov. 20</td>
+    </tr>
+    <tr>
+      <td>Week 14</td>
+      <td>Project Presentation</td>
+      <td></td>
+      <td>Nov. 25, Thanksgiving</td>
+    </tr>
+    <tr>
+      <td>Week 15</td>
+      <td>Project Presentation</td>
+      <td></td>
+      <td>Dec. 2 and Dec. 4</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- <table>
   <thead>
     <tr>
       <th>Date</th>
@@ -257,7 +322,7 @@ Students are encouraged to work in groups of three for their final project. You 
       <td>Not a class day.</td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 
 
