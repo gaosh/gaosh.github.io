@@ -21,8 +21,10 @@ importance: 2
 * 🎒 **Format**: In-person only (unless there is a drastic change in the situation).
 * 💡 **Teaching Assistants**: TBD
 
-    <!-- * Hannah Housand, **Office Hour**: Tuesday, 10 am-12 pm, **Location**: LOV006
-    * Christopher Draper, **Office Hour**: Thursday, 10 am-12 pm, **Location**: LOV006 -->
+<!--
+Hannah Housand, **Office Hour**: Tuesday, 10 am-12 pm, **Location**: LOV006
+Christopher Draper, **Office Hour**: Thursday, 10 am-12 pm, **Location**: LOV006
+-->
 
 ## Course Overview
 This course focuses on preparing students for upper-division courses in computer science. As such, students are introduced to the object-oriented programming design model including encapsulation, abstraction, inheritance, and other common C++ language features used to create applications.  
