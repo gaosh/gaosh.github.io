@@ -20,6 +20,7 @@ importance: 2
 * 🔍 **Office Hour**: TBD
 * 🎒 **Format**: In-person only (unless there is a drastic change in the situation).
 * 💡 **Teaching Assistants**: TBD
+
     <!-- * Hannah Housand, **Office Hour**: Tuesday, 10 am-12 pm, **Location**: LOV006
     * Christopher Draper, **Office Hour**: Thursday, 10 am-12 pm, **Location**: LOV006 -->
 
@@ -56,6 +57,7 @@ Upon completion of the course, the student will:
 
 ## Course schedule
 To be updated.
+
 <!-- <table>
   <thead>
     <tr>
