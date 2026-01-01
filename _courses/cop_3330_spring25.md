@@ -175,7 +175,7 @@ The final course grade consists of the following components:
 * **Homework Assignments (48%)** (8%x6 = 48%)
 * **Participation (7%)** Based on quizzes given in class or during recitations.
 * **Midterm (20%)** One Midterm exam
-* **Final Exam (25%)** One Midterm exam
+* **Final Exam (25%)** One Final exam
 
 ## Assignment Submission Policy
 All programming assignment submissions **MUST** be accompanied by a link to a video that includes the following:
