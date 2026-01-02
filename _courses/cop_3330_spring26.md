@@ -17,7 +17,7 @@ importance: 2
 * 📢 **Instructor**: [**Dr. Shangqian Gao**](https://gaosh.github.io/index.html) (sg24bi[at]fsu[dot]edu)
 * 📅 **Time**:  MoWe, 4:50 pm-6:05 pm (ET)
 * 🏫 **Location**: Milton Carothers Hall (MCH) 201
-* 🔍 **Office Hour**: We 2:00 pm-4:00 pm (ET)
+* 🔍 **Office Hour**: Wednesday, 2:00 pm-4:00 pm (ET), Love 251A
 * 🎒 **Format**: In-person only (unless there is a drastic change in the situation).
 * 💡 **Teaching Assistants**: TBD
 
@@ -48,8 +48,8 @@ Upon completion of the course, the student will:
 ## How-to Resources at FSU
 * [Information about CS account for this class](https://www.cs.fsu.edu/~myers/howto/account.html)
 * Systems Group Pages regarding CS account creation:
-    * [SSH How to Access Computer Science Department Servers](https://system.cs.fsu.edu/new/newuser/ssh-how-to/)
-    * [CS account setup](https://system.cs.fsu.edu/new/newuser/cs-account-setup/)
+    * [SSH How to Access Computer Science Department Servers](https://system.cs.fsu.edu/newuser/ssh-how-to/)
+    * [CS account setup](https://system.cs.fsu.edu/newuser/cs-account-setup/)
 * [Command-line SSH and Sftp](https://www.cs.fsu.edu/~myers/howto/commandLineSSH.html)
 * [Instructions for compiling with g++ (in unix)](https://www.cs.fsu.edu/~myers/howto/g++compiling.txt)
 * [Building makefiles (for use with g++)](https://www.cs.fsu.edu/~myers/howto/makefiles.txt)
