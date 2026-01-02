@@ -50,6 +50,7 @@ Upon completion of the course, the student will:
 * Systems Group Pages regarding CS account creation:
     * [SSH How to Access Computer Science Department Servers](https://system.cs.fsu.edu/newuser/ssh-how-to/)
     * [CS account setup](https://system.cs.fsu.edu/newuser/cs-account-setup/)
+* [Git Bash](https://git-scm.com/install/windows)
 * [Command-line SSH and Sftp](https://www.cs.fsu.edu/~myers/howto/commandLineSSH.html)
 * [Instructions for compiling with g++ (in unix)](https://www.cs.fsu.edu/~myers/howto/g++compiling.txt)
 * [Building makefiles (for use with g++)](https://www.cs.fsu.edu/~myers/howto/makefiles.txt)
