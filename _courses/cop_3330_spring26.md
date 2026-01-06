@@ -59,8 +59,24 @@ Upon completion of the course, the student will:
     * [UNIX Tutorial for Beginners](https://www.cs.fsu.edu/~myers/howto/UnixTutorial.txt)
 
 ## Course schedule
-To be updated.
-
+<table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Topic</th>
+      <th>Materials</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Week 1 (Jan 5 to Jan 11)</td>
+      <td>Introduction</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 <!-- <table>
   <thead>
     <tr>
