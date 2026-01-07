@@ -17,7 +17,7 @@ importance: 2
 * 📢 **Instructor**: [**Dr. Shangqian Gao**](https://gaosh.github.io/index.html) (sg24bi[at]fsu[dot]edu)
 * 📅 **Time**:  MoWe, 4:50 pm-6:05 pm (ET)
 * 🏫 **Location**: Milton Carothers Hall (MCH) 201
-* 🔍 **Office Hour**: Wednesday, 2:00 pm-4:00 pm (ET), Love 251A
+* 🔍 **Office Hour**: Monday, 2:00 pm-4:00 pm (ET), Love 251A
 * 🎒 **Format**: In-person only (unless there is a drastic change in the situation).
 * 💡 **Teaching Assistants**: TBD
 
