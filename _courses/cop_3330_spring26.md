@@ -76,6 +76,13 @@ Upon completion of the course, the student will:
       <td></td>
       <td></td>
     </tr>
+    <tr>
+      <td>Week 2 (Jan 12 to Jan 18)</td>
+      <td>Review of C++ Basics</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
   </tbody>
 </table>
 <!-- <table>
