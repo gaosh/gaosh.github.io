@@ -19,8 +19,19 @@ importance: 2
 * 🏫 **Location**: Milton Carothers Hall (MCH) 201
 * 🔍 **Office Hour**: Monday, 2:00 pm-4:00 pm (ET), Love 251A
 * 🎒 **Format**: In-person only (unless there is a drastic change in the situation).
-* 💡 **Teaching Assistants**: TBD
-
+* 💡 **Teaching Assistants**: 
+<ul>
+  <li>
+    <strong>Ryan Leigh</strong> (<a href="mailto:rleigh@fsu.edu">rleigh@fsu.edu</a>)<br>
+    Office Hours: Tuesday, 9:30–11:30 AM<br>
+    Office: MCH 102A
+  </li>
+  <li>
+    <strong>Yan Zhang</strong> (<a href="mailto:yzhang18@fsu.edu">yzhang18@fsu.edu</a>)<br>
+    Office Hours: Friday, 3:00–5:00 PM<br>
+    Office: MCH 106B
+  </li>
+</ul>
 <!--
 Hannah Housand, **Office Hour**: Tuesday, 10 am-12 pm, **Location**: LOV006
 Christopher Draper, **Office Hour**: Thursday, 10 am-12 pm, **Location**: LOV006
@@ -81,6 +92,12 @@ Upon completion of the course, the student will:
       <td>Review of C++ Basics</td>
       <td></td>
       <td>Quiz 1</td>
+    </tr>
+    <tr>
+      <td>Week 3 (Jan 19 to Jan 25)</td>
+      <td>Class and Object 1</td>
+      <td></td>
+      <td>Reading: Ch 6.1 (review), Ch 6.2, Ch 7.1</td>
     </tr>
     <tr>
   </tbody>
