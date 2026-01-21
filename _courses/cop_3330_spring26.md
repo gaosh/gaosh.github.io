@@ -99,7 +99,6 @@ Upon completion of the course, the student will:
       <td></td>
       <td>Reading: Ch 6.1 (review), Ch 6.2, Ch 7.1</td>
     </tr>
-    <tr>
   </tbody>
 </table>
 <!-- <table>
