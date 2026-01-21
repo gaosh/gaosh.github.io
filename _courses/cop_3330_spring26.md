@@ -66,6 +66,7 @@ Upon completion of the course, the student will:
 * [Command-line SSH and Sftp](https://www.cs.fsu.edu/~myers/howto/commandLineSSH.html)
 * [Instructions for compiling with g++ (in unix)](https://www.cs.fsu.edu/~myers/howto/g++compiling.txt)
 * [Building makefiles (for use with g++)](https://www.cs.fsu.edu/~myers/howto/makefiles.txt)
+* [Windows Subsystem for Linux with VS code](https://code.visualstudio.com/docs/remote/wsl)
 * Unix Tutorials and Help Sites
     * [Basic Unix Tutorial](https://www.cs.fsu.edu/~myers/howto/UnixTutorial.txt)
     * [UNIX Tutorial for Beginners](https://www.cs.fsu.edu/~myers/howto/UnixTutorial.txt)
