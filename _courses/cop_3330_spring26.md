@@ -100,6 +100,12 @@ Upon completion of the course, the student will:
       <td></td>
       <td>Reading: Ch 6.1 (review), Ch 6.2, Ch 7.1</td>
     </tr>
+      <tr>
+      <td>Week 4 (Jan 26 to Feb 1)</td>
+      <td>Class and Object 2</td>
+      <td></td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
 <!-- <table>
