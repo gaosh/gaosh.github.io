@@ -92,7 +92,7 @@ Upon completion of the course, the student will:
       <td>Week 2 (Jan 12 to Jan 18)</td>
       <td>Review of C++ Basics</td>
       <td></td>
-      <td>Quiz 1</td>
+      <td>Review Quiz</td>
     </tr>
     <tr>
       <td>Week 3 (Jan 19 to Jan 25)</td>
@@ -104,7 +104,14 @@ Upon completion of the course, the student will:
       <td>Week 4 (Jan 26 to Feb 1)</td>
       <td>Class and Object 2</td>
       <td></td>
+      <td>Quiz 1</td>
+    </tr>
+    </tr>
+      <tr>
+      <td>Week 5 (Feb 2 to Feb 8)</td>
+      <td>Class and Object 2 (cont.)</td>
       <td></td>
+      <td>Quiz 2</td>
     </tr>
   </tbody>
 </table>
