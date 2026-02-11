@@ -113,6 +113,13 @@ Upon completion of the course, the student will:
       <td></td>
       <td>Quiz 2</td>
     </tr>
+    </tr>
+      <tr>
+      <td>Week 6 (Feb 9 to Feb 15)</td>
+      <td>Operator Overloading</td>
+      <td></td>
+      <td>Reading: Ch8, Quiz 3</td>
+    </tr>
   </tbody>
 </table>
 <!-- <table>
