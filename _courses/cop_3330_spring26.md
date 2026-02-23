@@ -120,6 +120,34 @@ Upon completion of the course, the student will:
       <td></td>
       <td>Reading: Ch8, Quiz 3</td>
     </tr>
+    </tr>
+      <tr>
+      <td>Week 7 (Feb 16 to Feb 22)</td>
+      <td>Composition</td>
+      <td></td>
+      <td>Quiz 4</td>
+    </tr>
+    </tr>
+      <tr>
+      <td>Week 8 (Feb 23 to Mar 1)</td>
+      <td>Array and Vector</td>
+      <td></td>
+      <td>Ch10, Quiz 5</td>
+    </tr>
+    </tr>
+      <tr>
+      <td>Week 9 (Mar 2 to Mar 8)</td>
+      <td>Dynamic Memory Allocation</td>
+      <td></td>
+      <td></td>
+    </tr>
+    </tr>
+      <tr>
+      <td>Week 10 (Mar 9 to Mar 15)</td>
+      <td>Midterm Exam</td>
+      <td></td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
 <!-- <table>
