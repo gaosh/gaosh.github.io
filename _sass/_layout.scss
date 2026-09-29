@@ -34,6 +34,35 @@ body.sticky-bottom-footer {
 }
 
 // TODO: redefine content layout.
+.about-intro {
+  display: flow-root;
+  margin-bottom: 1.5rem;
+
+  .profile {
+    width: 28%;
+    max-width: 210px;
+    margin-left: 2rem;
+
+    .more-info {
+      font-family: inherit;
+      font-size: 0.875rem;
+      line-height: 1.6;
+      text-align: center;
+
+      p {
+        display: block;
+      }
+    }
+  }
+}
+
+@media (max-width: 575px) {
+  .about-intro .profile {
+    float: none !important;
+    width: 180px;
+    margin: 0 auto 1.5rem;
+  }
+}
 
 
 /******************************************************************************
