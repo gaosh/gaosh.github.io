@@ -3,7 +3,7 @@ layout: page
 permalink: /courses/
 title: Teachings
 description: Teaching materials
-nav: true
+nav: false
 nav_order: 4
 ---
 
