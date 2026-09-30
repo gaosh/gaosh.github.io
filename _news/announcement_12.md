@@ -4,5 +4,4 @@ date: 2024-09-25
 inline: true
 related_posts: false
 ---
-
-One paper on the memorization of large language models (LLMs) has been accepted by EMNLP 2024, and another paper on dimension-independent structural pruning for LLMs has been accepted by NeurIPS 2024.
+Our paper [DISP-LLM: Dimension-Independent Structural Pruning for Large Language Models](https://openreview.net/forum?id=YxaY6tHgg0) has been accepted to NeurIPS 2024.

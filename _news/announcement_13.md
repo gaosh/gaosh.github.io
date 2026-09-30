@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-01-23
+date: 2025-01-22
 inline: true
 related_posts: false
 ---
-Two papers have been accepted accepted by ICLR 2025. One focuses on the compression of large language models (LLMs), and the other focuses on prompt-based expert routing for text-to-image diffusion models. One paper on depth pruning for LLMs has been accepted by NAACL 2025.
+Two papers have been accepted to ICLR 2025: [MoDeGPT](https://openreview.net/forum?id=8EfxjTCg2k) (Oral) and [Not All Prompts Are Made Equal](https://openreview.net/forum?id=3BhZCfJ73Y) (Poster). [FlexiGPT](https://openreview.net/forum?id=XDrzeWCePD) has been accepted to NAACL 2025.
